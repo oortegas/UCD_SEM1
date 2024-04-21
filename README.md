@@ -1,5 +1,5 @@
 # RunLight
-*Met RunLight wordt het risico op bressures geminimaliseerd doormiddel van schokdetectie op de enkel en een addon op de horloge, deze geeft realtime-feedback naar de loper toe, en een app.* 
+*RunLight tracht het risico op blessures te minimaliseren doormiddel van schokdetectie op de enkel en een smartphone-app die real-time feedback geeft aan de loper via een lampje op een add-on aan het horloge of de pols. 
 
 *Projectteam: Ortega Saez Oscar*
 
