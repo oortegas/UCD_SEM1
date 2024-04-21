@@ -103,7 +103,7 @@ De user tests werden toegepast als methode.
 Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van het lichtje. 
 Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of het lichtje op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren en deze meedelen.
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (op de schoen, aan het middel en op de borst). **De add-on op de pols of op het horloge was hierbij dan de populairste positie**.
-![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0f738150-1869-4e4d-a1ee-80067e721098)
+![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/4ecfd851-5463-4ea8-8546-2724cc5b2890)
 
 
 #### Dataweergave (N=3)
