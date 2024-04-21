@@ -52,7 +52,7 @@ Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. V
 
 ## Discovery
 ### Doelstellingen
-Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnnoveerd moeten worden en hoe dit verwezenlijk kan worden.
+Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnnoveerd moeten worden en hoe dit verwezenlijkt kan worden.
 Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
 •	Benchmarking
