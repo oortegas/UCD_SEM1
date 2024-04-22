@@ -31,7 +31,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Methodologie
 
-Hieronder staat de gebruikte methodologie uitgelegd, deze is opgedeeld in twee delen. Eén deel gaat over de methodologie voor de fork, deze is met het originele team opgesteld, het tweede deel betreft de werkwijze na de fork. Na de fork is de, in team uitgevoerde, methodologie herbekeken, aangepast en opnieuw uitgevoerd, ook zijn een paar bijkomende technieken gebruikt.
+Hieronder staat de gebruikte methodologie uitgelegd, deze is opgedeeld in twee delen. Eén deel gaat over de methodologie voor de fork, deze is met het originele team opgesteld, het tweede deel betreft de werkwijze na de fork. Na de fork is de, in team uitgevoerde, methodologie herbekeken, aangepast en opnieuw uitgevoerd, ook zijn een paar bijkomende technieken gebruikt. Ook werd een vernieuwde tijdlijn gebruikt die over het hele project rijkt.
 
 ### vooraf fork
 
