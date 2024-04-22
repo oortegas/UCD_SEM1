@@ -160,6 +160,9 @@ Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mens
 Om de loper te waarschuwen wordt gebruik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
+![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
+
+
 ## Bill of materials
 
 |Materialen|Prijs|Link|  
