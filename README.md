@@ -31,7 +31,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Methodologie
 
-Hieronder staat de gebruikte methodologie uitgelegd, deze is opgedeeld in twee delen. Eén deel gaat over de methodologie voor de fork, deze is met het originele team opgesteld, het tweede deel betreft de werkwijze na de fork. Na de fork is de, in team uitgevoerde, methodologie herbekeken, aangepast en opnieuw uitgevoerd, ook zijn een paar bijkomende technieken gebruikt. Ook werd een vernieuwde tijdlijn gebruikt die over het hele project rijkt.
+Hieronder staat de gebruikte methodologie uitgelegd, deze is opgedeeld in twee delen. Eén deel gaat over de methodologie voor de fork, deze is met het originele team opgesteld, het tweede deel betreft de werkwijze na de fork. Na de fork is de (in team uitgevoerde) methodologie herbekeken, aangepast en opnieuw uitgevoerd, ook zijn een paar bijkomende technieken gebruikt. Ook werd een vernieuwde tijdlijn gebruikt die over het hele project rijkt.
 
 ### vooraf fork
 
@@ -84,7 +84,7 @@ Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat hieronder vermeld wo
 
 #### User interviews (N=4)
 
-Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zou werken.
+Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audiosysteem niet zou werken.
 "In wedstrijden loop ik nooit met muziek."
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog.
 Er is ook een idee om met een straf te werken, aangezien de loper echt gedwongen moet worden om zijn loopstijl aan te passen. Dit zou een snelheidsvermindering zijn. Elke sociale(media)-loper wil dit uiteraard vermijden. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan hun loopstijl. Daardoor zou de straf onnodig blijken. Dit wordt verder onderzocht.
@@ -106,7 +106,7 @@ Dit zal verwezenlijkt worden door te werken met licht en trilling. Dit om de lop
 
 ### Doelstellingen
 
-Met de tests in de eerste wave moet inzicht verworven worden in waar de loper de add-on (licht) zou willen bevestigen en waar het gemakkelijk waarneembaar is, zonder hinder voor de gebruiker tijdens het lopen.
+Met de tests in de eerste wave moet inzicht verworven worden in waar de loper de add-on (lichtje) zou willen bevestigen en waar het gemakkelijk waarneembaar is, zonder hinder voor de gebruiker tijdens het lopen.
 Onderzoeksvraag 1: Hoe kan de loper gewaarschuwd worden via licht?
 In deze tweede wave werd onderzocht hoe de data weergeven wordt voor de loper. De testpersonen kiezen elk hun voorkeur en daarmee kunnen we de juist beslissingen maken.
 Onderzoeksvraag 2: Via welke smartphone-app en op welke manier wilt de gebruiker de data te zien krijgen? 
