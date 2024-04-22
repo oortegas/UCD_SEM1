@@ -31,6 +31,10 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Methodologie
 
+Hieronder staat de gebruikte methodologie uitgelegd, deze is opgedeeld in twee delen. Eén deel gaat over de methodologie voor de fork, deze is met het originele team opgesteld, het tweede deel betreft de werkwijze na de fork. Na de fork is de, in team uitgevoerde, methodologie herbekeken, aangepast en opnieuw uitgevoerd, ook zijn een paar bijkomende technieken gebruikt.
+
+### vooraf fork
+
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en defintion. Dit is hieronder weergegeven in een double diamond.
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/f8aaaf1a-15f1-46b0-8bfc-c0409f84c72f)
 
