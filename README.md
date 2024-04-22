@@ -39,6 +39,7 @@ Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en de
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/f8aaaf1a-15f1-46b0-8bfc-c0409f84c72f)
 
 ### problem discovery
+
 In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. Dit werd met volgende methodes aangepakt:
 •	Innovatrix
 •	WHHHHH-model
@@ -46,32 +47,43 @@ In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om
 •	Root-cause analysis
 
 ### problem definition
+
 Na het bespreken van alle problemen was er terug nood aan eenduidigheid. Aan de hand van user interviews werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
 
 ### problem discovery
+
 In de tweede fase werd opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Daarna moesten ideeën gegenereerd worden. Het prototypen kon beginnen.
 
 ### problem definition
+
 Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. Voor dit te verwezenlijken werden gebruikerstesten uitgevoerd, zo werden snelle beslissingen genomen op basis van de resultaten van de testen met de gebruikers.
 
 ## Discovery
+
 ### Doelstellingen
+
 Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnnoveerd moeten worden en hoe dit verwezenlijkt kan worden.
-Materiaal & methoden
+
+### Materiaal & methoden
+
 De volledige ruimte werd eerst onderzocht aan de hand van:
 •	Benchmarking
 •	Sportlab Gent
 •	User interviews
+
 ### Resultaten
 
 #### Benchmarking (N=8)
+
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een problem-solution matrix gegoten.
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/9593655c-7c07-4e68-b360-a9edf420a0b2)
 
 #### Sportlab Gent (30/11)
+
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat hieronder vermeld wordt past beter bij de discovery fase. Een inzicht dat daar gegeven werd, was dat ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures 2. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is fysiek vaak minder getraind dan bv atleten. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
 
 #### User interviews (N=4)
+
 Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zou werken.
 "In wedstrijden loop ik nooit met muziek."
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog.
@@ -84,13 +96,16 @@ het voorafgaande is hieronder weergeven in een tabel.
 |Lopen met muziek|Soms|Nooit|Nooit|Altijd|
 
 ### Conclusies & implicaties
+
 De conclusie hieruit is dat er 2 specifieke zaken moeten aangepakt worden:
     1. Het real-time feedbacksysteem
     2. De dataweergave
 Dit zal verwezenlijkt worden door te werken met licht en trilling. Dit om de loper te waarschuwen. Daarnaast wordt data schematisch weergegeven op een applicatie. Hoe en wat wordt onderzocht in de volgende fase: Definition.
 
 ## Definition
+
 ### Doelstellingen
+
 Met de tests in de eerste wave moet inzicht verworven worden in waar de loper de add-on (licht) zou willen bevestigen en waar het gemakkelijk waarneembaar is, zonder hinder voor de gebruiker tijdens het lopen.
 Onderzoeksvraag 1: Hoe kan de loper gewaarschuwd worden via licht?
 In deze tweede wave werd onderzocht hoe de data weergeven wordt voor de loper. De testpersonen kiezen elk hun voorkeur en daarmee kunnen we de juist beslissingen maken.
@@ -103,7 +118,9 @@ Deze onderzoeksvragen werden ondervraagd met volgende materialen:
 De user tests werden toegepast als methode.
 
 ### Resultaten
+
 #### Real-time feedbacksysteem (N=3)
+
 Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van het lichtje. 
 Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of het lichtje op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren en deze meedelen.
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (op de schoen, aan het middel en op de borst). **De add-on op de pols of op het horloge was hierbij dan de populairste positie**.
@@ -112,6 +129,7 @@ Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3
 
 
 #### Dataweergave (N=3)
+
 De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gebruikers voorgesteld.
 Met 3 verschillende vragen en telkens 3 verschillende prototypes, werd aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste genomen.
 
@@ -138,10 +156,12 @@ Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mens
 **Resultaat= Victory app, grafiek met rode balk onder de grafiek en een routebouwer.**
 
 ### Conclusies & implicaties
+
 Om de loper te waarschuwen wordt gebruik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
 ## Bill of materials
+
 |Materialen|Prijs|Link|  
 |---:|:---:|:---:|
 |Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
