@@ -146,15 +146,17 @@ Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mens
 Om de loper te waarschuwen wordt gebruik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
-![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
-
-
 ## Bill of materials
 
 |Materialen|Prijs|Link|  
 |---:|:---:|:---:|
 |Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
 |Sensorband|
+
+## Na de opsplitsing (fork)
+
+![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
+
 
 
 
@@ -166,11 +168,18 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## Ergonomie
+
 ### Doestellingen
-Wat wilde je bereiken?
+
+Het doel van deze fase is om een ergonomisch ontwerp te creëren dat comfortabel en goed passend is voor een breed scala aan gebruikers, gebaseerd op de verzamelde antropometrische gegevens.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+
+In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden (zoals benodigde drukkracht) van het ontwerp bepaald. Vervolgens werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp, dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de addon in te duwen. Voor de omtrek van het pols- of enkelbandje werd gezocht naar antropometrische data over de enkel- en polsomtrek van grote groepen testpersonen. Voor de addon werd data gebruikt over de pinch-kracht van tussen de duim en wijsvinger.
+
 ### Resultaten
+
+
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
