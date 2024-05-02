@@ -159,7 +159,7 @@ Na het eerste semester werd besloten het team van 2 studenten op te splitsen in 
 
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/67852990-4c64-407a-9eae-09dce49cce37) ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/ead14e37-6e38-4414-a270-064ce8a9c2ca)
 
-Deze gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door te de test persoon te vragen om te lopen en een paar wilde bewegingen te doen met de arm. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. 
+Deze gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door te de test persoon te vragen om te lopen en een paar wilde bewegingen te doen met de arm. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel maakt. 
 
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/67852990-4c64-407a-9eae-09dce49cce37) ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/ead14e37-6e38-4414-a270-064ce8a9c2ca)
 
