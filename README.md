@@ -161,10 +161,7 @@ Na het eerste semester werd besloten het team van 2 studenten op te splitsen in 
 
 Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door te de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te doen met de arm. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel maakt. 
 
-![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/79040fde-ddff-486b-9c42-a39f13c957e3) ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/8f5e904c-a28e-49a7-b6a8-c1f250b56c8d)
-<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/79040fde-ddff-486b-9c42-a39f13c957e3" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/8f5e904c-a28e-49a7-b6a8-c1f250b56c8d" width="200" height="200">
-
-
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
 Om deze reden was er in dit project behoefte aan een terugkijk op het voorgaande deel van het project, de definition. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruiker tests. In de figuur dat hieronder staat afgebeeld is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project, de derde ruit (de 2e definition-diamond) is deze na de opsplitsing.
 
