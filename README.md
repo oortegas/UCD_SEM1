@@ -148,11 +148,6 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 
 ## Bill of materials
 
-|Materialen|Prijs|Link|  
-|---:|:---:|:---:|
-|Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
-|Sensorband|
-
 ## Na de opsplitsing (fork)
 
 Na het eerste semester werd besloten het team van 2 studenten op te splitsen in 2 verschillende projecten. Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onderzocht aan de hand van antropometrie, dit werd onderzocht doormiddel van een gebruikertest met een prototype gebaseerd op de startup “Glance” (Glance Team, 2013). 
