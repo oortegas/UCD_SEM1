@@ -157,9 +157,7 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 
 Na het eerste semester werd besloten het team van 2 studenten op te splitsen in 2 verschillende projecten. Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onderzocht aan de hand van antropometrie, dit werd onderzocht doormiddel van een gebruikertest met een prototype gebaseerd op de startup “Glance” (Glance Team, 2013). 
 
-![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43) ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec)
-
-
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200">
 
 Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door te de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te doen met de arm. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel maakt. 
 
