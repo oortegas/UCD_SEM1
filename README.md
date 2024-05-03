@@ -206,5 +206,9 @@ Max. 500 woorden
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 Glance team. (2013, 1 juli). Kickstarter. https://www.kickstarter.com/profile/1742184757
+Victoris - Ghent University. https://www.victoris.be/about-us/#who-we-are Glance team. (2013, 1 juli). Kickstarter. https://www.kickstarter.com/profile/1742184757 
+Over ons - Trenara: Unlock your personal best. (z.d.). https://www.trenara.com/nl/about 
+Runners’ lab. (2024, 5 januari). Over ons - Runners’ lab. Runners’ Lab. https://runnerslab.be/over-ons/ Timodb. (2024, 12 maart). 
+About us. Runeasi. https://runeasi.ai/about-us/
 
 ## Bijlagen
