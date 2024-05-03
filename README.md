@@ -173,6 +173,7 @@ Hiervan werden uiteraard ook prototypes gemaakt.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c8c8e470-15ac-4ae6-a48f-32f83ba3cf36" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1cb3632-887c-4c30-83b2-db391a248cb5" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/70e56b2a-d259-47f5-9bec-5ae483906fac" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/142ca3bb-8745-44f7-a5de-30738024f05f" width="200" height="200">
 
+Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een voorgaande gebruikerstest herhaald, dit betreft een test waarbij simpelweg word gepeild naar hoe comfortabel het prototype is op de pols.
 
 
 
