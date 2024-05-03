@@ -218,7 +218,7 @@ Max. 500 woorden
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
--Kickstarter. https://www.kickstarter.com/profile/1742184757
+-Glance team. (2013, 1 juli). Kickstarter. https://www.kickstarter.com/profile/1742184757
 
 -Victoris - Ghent University. https://www.victoris.be/about-us/#who-we-are 
 
