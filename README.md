@@ -154,14 +154,24 @@ Na het eerste semester werd besloten het team van 2 studenten op te splitsen in 
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
-Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel maakt. 
+Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel, ook liet iemand weten dat ze schrik had dat ze het zou verliezen (de enige persoon waarbij het niet loskwam).
 
-<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
+fotos test glance
+
+"Het zit wel een beetje in de weg als ik dit doe (plooit pols)." 
+"Ik ben bang dat het tijdens het lopen zou loskomen en ik het dan verlies."
 
 Om deze reden was er in dit project behoefte aan een terugkijk op het voorgaande deel van het project, de definition. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruiker tests. In de figuur dat hieronder staat afgebeeld is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project, de derde ruit (de 2e definition-diamond) is deze na de opsplitsing.
 
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
 
+Uit de voorgaande tests was duidelijk dat de testpersonen nood hadden aan een product dat stevig vast zit en waar ze zich geen zorgen over moeten maken dat het loskomt maar ook een product dat geen bewegingen limiteert of oncomfortabel maakt. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De beste mogelijkheid volgens 3 user interviews was een add-on met een koordstopper en een kunststof naald dat door de gespgaatjes van het horloge bevestigd wordt. Een schets van dit concept staat hieronder afgebeeld (links horloge, rechts armbandje).
+
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/fd1f7f50-01d6-479d-a1db-4f2d3d2c3d75" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a0b8fe28-10b9-4d33-800b-c8da702f524b" width="200" height="200">
+
+Hiervan werden uiteraard ook prototypes gemaakt.
+
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c8c8e470-15ac-4ae6-a48f-32f83ba3cf36" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1cb3632-887c-4c30-83b2-db391a248cb5" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/70e56b2a-d259-47f5-9bec-5ae483906fac" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/142ca3bb-8745-44f7-a5de-30738024f05f" width="200" height="200">
 
 
 
@@ -169,6 +179,7 @@ Om deze reden was er in dit project behoefte aan een terugkijk op het voorgaande
 
 
 
+<img src="" width="200" height="200">
 
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
