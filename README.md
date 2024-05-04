@@ -181,6 +181,11 @@ Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagm
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dbe2077c-b95e-40a8-a7a2-cd3a553839a9" width="200" height="200">
 
+Bij de smartphone-app die samengaat met het enkelbandje en de add-on was er om hypothetische redenen behoefte aan verandering. 
+De meeste mensen hebben veel apps met functies die ze niet gebruiken en mogelijk zelfs niet weten hoe ze moeten gebruiken, dit heeft een negatieve invloed op de bruikbaarheid van de app en beïnvloedt de bruikbaarheid van het hele product op deze manier. Bij het ontwerpen van de functies van deze app moet het doel waarvoor de app is ontworpen in gedachten worden gehouden. Dit doel is het monitoren van schokken aan de enkel en het waarschuwen van de gebruiker. Andere apps zoals Runna, NikeRunClub, Strava,... hebben al een tracking systeem, een routebouwer, een sociaal deelplatform, vele andere functies en een zeer breed scala aan gebruikers wereldwijd. Er is geen noodzaak om met deze bedrijven te concurreren, dit zou meer geld, meer tijd en meer expertise vergen.
+
+Vanuit deze overtuiging word de Smartphone app simpel en doelgerischt ontworpen.
+
 <img src="" width="200" height="200">
 
 ## Ergonomie
