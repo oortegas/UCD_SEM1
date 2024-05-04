@@ -177,13 +177,11 @@ Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eer
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c507dbb3-da21-44de-8978-f8e24b8dd46d" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/e86e1fe6-6b76-469e-a1e3-186bdc963128" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1e2ff37-71a0-44f9-9433-41db31cc3648" width="200" height="200">
 
-Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke, Movesense produceerd deze enkelbandjes ook zelf.
+Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke, Movesense verhandeld deze enkelbandjes ook zelf.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dbe2077c-b95e-40a8-a7a2-cd3a553839a9" width="200" height="200">
 
 <img src="" width="200" height="200">
-
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## Ergonomie
 
