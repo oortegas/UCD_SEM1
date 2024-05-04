@@ -154,9 +154,9 @@ Na het eerste semester werd besloten het team van 2 studenten op te splitsen in 
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
-Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en verschillende keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel, ook liet iemand weten dat ze schrik had dat ze het zou verliezen (de enige persoon waarbij het niet loskwam).
+Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en enkele keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel, ook liet iemand weten dat ze schrik had dat ze het zou verliezen. Het comfort van zich geen zorgen te hoeven maken is uiteraard ook een aspect van ergonomie.
 
-fotos test glance
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9759676a-f89a-4a4d-a054-0c258e0520f6" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a059f71-b9e9-4b1b-9a3e-e70c4e63fadc" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/858160b0-b26f-48dc-8707-855547b439f9" width="200" height="200">
 
 "Het zit wel een beetje in de weg als ik dit doe (plooit pols)." 
 "Ik ben bang dat het tijdens het lopen zou loskomen en ik het dan verlies."
@@ -173,12 +173,13 @@ Hiervan werden uiteraard ook prototypes gemaakt.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c8c8e470-15ac-4ae6-a48f-32f83ba3cf36" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1cb3632-887c-4c30-83b2-db391a248cb5" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/70e56b2a-d259-47f5-9bec-5ae483906fac" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/142ca3bb-8745-44f7-a5de-30738024f05f" width="200" height="200">
 
-Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een voorgaande gebruikerstest herhaald, dit betreft een test waarbij simpelweg word gepeild naar hoe comfortabel het prototype is op de pols.
+Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een voorgaande gebruikerstest herhaald, dit betreft een test waarbij simpelweg word gepeild naar hoe comfortabel het prototype is op de pols en of het geen bijkomende klachten veroorzaakt.
 
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c507dbb3-da21-44de-8978-f8e24b8dd46d" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/e86e1fe6-6b76-469e-a1e3-186bdc963128" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1e2ff37-71a0-44f9-9433-41db31cc3648" width="200" height="200">
 
+Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke, Movesense produceerd deze enkelbandjes ook zelf.
 
-
-
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dbe2077c-b95e-40a8-a7a2-cd3a553839a9" width="200" height="200">
 
 <img src="" width="200" height="200">
 
