@@ -158,8 +158,8 @@ Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9759676a-f89a-4a4d-a054-0c258e0520f6" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a059f71-b9e9-4b1b-9a3e-e70c4e63fadc" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/858160b0-b26f-48dc-8707-855547b439f9" width="200" height="200">
 
-"Het zit wel een beetje in de weg als ik dit doe (plooit pols)." 
-"Ik ben bang dat het tijdens het lopen zou loskomen en ik het dan verlies."
+"Het zit wel een beetje in de weg als ik dit doe (maakt een bapaalde polsbeweging)." -Luis ortega (fanatieke sporter, marathonloper)
+"I am a bit worried that when im running, it could come loose." -Rebecca Stremmel (biologe, loopt in vrije tijd)
 
 Om deze reden was er in dit project behoefte aan een terugkijk op het voorgaande deel van het project, de definition. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruiker tests. In de figuur dat hieronder staat afgebeeld is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project, de derde ruit (de 2e definition-diamond) is deze na de opsplitsing.
 
