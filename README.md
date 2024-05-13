@@ -178,7 +178,7 @@ Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eer
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c507dbb3-da21-44de-8978-f8e24b8dd46d" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/e86e1fe6-6b76-469e-a1e3-186bdc963128" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1e2ff37-71a0-44f9-9433-41db31cc3648" width="200" height="200">
 
-Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke, Movesense verhandeld deze enkelbandjes ook zelf.
+Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke, Movesense verhandeld deze arm- en enkelbandjes ook zelf.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dbe2077c-b95e-40a8-a7a2-cd3a553839a9" width="200" height="200">
 
@@ -197,7 +197,7 @@ Het doel van deze fase is om een ergonomisch ontwerp te creëren dat comfortabel
 
 ### Materiaal & methoden
 
-In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden (zoals benodigde drukkracht) van het ontwerp bepaald. Vervolgens werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp, dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de addon in te duwen. Voor de omtrek van het pols- of enkelbandje werd gezocht naar antropometrische data over de enkel- en polsomtrek van grote groepen testpersonen. Voor de addon werd data gebruikt over de pinch-kracht van tussen de duim en wijsvinger.
+In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden (zoals benodigde drukkracht) van het ontwerp bepaald. Vervolgens werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp, dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de addon in te duwen. Voor de omtrek van het pols- of enkelbandje werd gezocht naar antropometrische data over de enkel- en polsomtrek van grote groepen testpersonen van mannen en vrouwen. Voor de addon werd data gebruikt over de pinch-kracht tussen de duim en wijsvinger.
 
 ### Resultaten
 
