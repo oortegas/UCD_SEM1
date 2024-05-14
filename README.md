@@ -52,7 +52,7 @@ Daarna moest opnieuw een keuze gemaakt worden tussen verschillende concepten en 
 
 ## Na fork
 
-Na het eerste semester werd besloten het project van een team van 2 studenten op te splitsen in 2 verschillende projecten. In dit project werd initieel verder gegaan met de voorgaande concepten en inzichten, echter bleek later dat er nood was aan een terugblik op het eerste semester. Hierom werden verschillende methoden, zoals geberuikerstesten en interviews, toegepast om het voorgaande te verifiëren. Hieruit kwamen licht verschillende concepten tegenover de concepten van het eerste semester. Namelijk een verschillende aanpak voor de add-on en smartphone-app. Hier word verder in dit verslag dieper op in gegaan.
+Na het eerste semester werd besloten het project van een team van twee studenten op te splitsen in twee verschillende projecten. In dit project werd aanvankelijk voortgebouwd op de voorgaande concepten en inzichten. Later bleek echter dat er behoefte was aan een terugblik op het eerste semester. Daarom werden verschillende methoden, zoals gebruikerstesten en interviews, toegepast om het voorgaande te verifiëren. Hieruit kwamen enigszins verschillende concepten naar voren dan die van het eerste semester, namelijk een andere aanpak voor de add-on en de smartphone-app. Hier wordt verder in dit verslag dieper op ingegaan.
 
 ## Discovery
 
@@ -143,11 +143,11 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 
 ## Na de opsplitsing (fork)
 
-Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onderzocht aan de hand van antropometrie, dit werd onderzocht doormiddel van een gebruikertest met een prototype gebaseerd op de startup “Glance” (Glance Team, 2013). 
+Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onderzocht aan de hand van antropometrie. Dit werd onderzocht door middel van een gebruikerstest met een prototype gebaseerd op de startup “Glance” (Glance Team, 2013).
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
-Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg gepeild naar hoe comfortabel de add-on onder de horloge is voor de testpersoon. Dit door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het simpele prototype, uit hout gemaakt, niet stevig onder horloge zat en enkele keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols limiteert en oncomfortabel is bij bepaalde bewegingen, ook liet iemand weten dat ze schrik had dat ze het zou verliezen. Het comfort van zich geen zorgen te hoeven maken is uiteraard ook een aspect van ergonomie.
+Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen. Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9759676a-f89a-4a4d-a054-0c258e0520f6" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a059f71-b9e9-4b1b-9a3e-e70c4e63fadc" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/858160b0-b26f-48dc-8707-855547b439f9" width="200" height="200">
 
@@ -155,11 +155,11 @@ Deze eerste gebruikerstest werd uitgevoerd met 3 testpersonen. Er werd simpelweg
 
 "I am a bit worried that when im running, it could come loose." -Rebecca Stremmel (biologe, loopt in vrije tijd)
 
-Om deze reden was er in dit project behoefte aan een terugkijk op het voorgaande deel van het project, de definition. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruiker tests. In de figuur dat hieronder staat afgebeeld is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project, de derde ruit (de 2e definition-diamond) is deze na de opsplitsing.
+Om deze reden was er in dit project behoefte aan een terugblik op het voorgaande deel van het project, namelijk de definitiefase. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruikerstesten. In de onderstaande figuur is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project. De derde ruit (de tweede definitiefase) is deze na de opsplitsing.
 
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
 
-Uit de voorgaande tests was duidelijk dat de testpersonen nood hadden aan een product dat stevig vast zit en waar ze zich geen zorgen over moeten maken dat het loskomt maar ook een product dat geen bewegingen limiteert of oncomfortabel maakt. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De beste mogelijkheid volgens 3 user interviews was een add-on met een koordstopper en een kunststoffen spijkervorm dat door de gespgaatjes van het horloge bevestigd wordt. Een schets van dit concept staat hieronder afgebeeld (links horloge, rechts armbandje).
+Uit de voorgaande tests bleek duidelijk dat de testpersonen behoefte hadden aan een product dat stevig vastzit en waar ze zich geen zorgen over hoeven te maken dat het loskomt. Ook moest het product geen bewegingen beperken of oncomfortabel maken. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De beste mogelijkheid volgens drie user interviews was een add-on met een koordstopper en een kunststoffen spijkervorm die door de gespgaatjes van het horloge bevestigd wordt. Een schets van dit concept staat hieronder afgebeeld (links horloge, rechts armbandje).
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/fd1f7f50-01d6-479d-a1db-4f2d3d2c3d75" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a0b8fe28-10b9-4d33-800b-c8da702f524b" width="200" height="200">
 
@@ -167,18 +167,19 @@ Hiervan werden uiteraard ook prototypes gemaakt.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c8c8e470-15ac-4ae6-a48f-32f83ba3cf36" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1cb3632-887c-4c30-83b2-db391a248cb5" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/70e56b2a-d259-47f5-9bec-5ae483906fac" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/142ca3bb-8745-44f7-a5de-30738024f05f" width="200" height="200">
 
-Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een voorgaande gebruikerstest herhaald, dit betreft een test waarbij simpelweg word gepeild naar hoe comfortabel het prototype is op de pols en of het geen bijkomende klachten veroorzaakt.
+Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een eerdere gebruikerstest herhaald. Dit betreft een test waarbij simpelweg wordt gepeild naar hoe comfortabel het prototype is op de pols en of het geen bijkomende klachten veroorzaakt.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c507dbb3-da21-44de-8978-f8e24b8dd46d" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/e86e1fe6-6b76-469e-a1e3-186bdc963128" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1e2ff37-71a0-44f9-9433-41db31cc3648" width="200" height="200">
 
-Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke, Movesense verhandeld deze arm- en enkelbandjes ook zelf.
+Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke. Movesense verhandelt deze arm- en enkelbandjes ook zelf.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dbe2077c-b95e-40a8-a7a2-cd3a553839a9" width="200" height="200">
 
-Bij de smartphone-app die samengaat met het enkelbandje en de add-on was er om hypothetische redenen behoefte aan verandering. 
-De meeste mensen hebben veel apps met functies die ze niet gebruiken en mogelijk zelfs niet weten hoe ze moeten gebruiken, dit heeft een negatieve invloed op de bruikbaarheid van de app en beïnvloedt de bruikbaarheid van het hele product op deze manier. Bij het ontwerpen van de functies van deze app moet het doel waarvoor de app is ontworpen in gedachten worden gehouden. Dit doel is het monitoren van schokken aan de enkel en het waarschuwen van de gebruiker. Andere apps zoals Runna, NikeRunClub, Strava,... hebben al een tracking systeem, een routebouwer, een sociaal deelplatform, vele andere functies en een zeer breed scala aan gebruikers wereldwijd. Er is geen noodzaak om met deze bedrijven te concurreren, dit zou meer geld, meer tijd en meer expertise vergen.
+Bij de smartphone-app die samengaat met het enkelbandje en de add-on was er om hypothetische redenen behoefte aan verandering. De meeste mensen hebben veel apps met functies die ze niet gebruiken en mogelijk zelfs niet weten hoe ze deze moeten gebruiken. Dit heeft een negatieve invloed op de bruikbaarheid van de app en beïnvloedt op deze manier de bruikbaarheid van het hele product. Bij het ontwerpen van de functies van deze app moet het doel waarvoor de app is ontworpen in gedachten worden gehouden. Dit doel is het monitoren van schokken aan de enkel en het waarschuwen van de gebruiker. Andere apps zoals Runna, NikeRunClub, Strava, enzovoort, hebben al een trackingsysteem, een routebouwer, een sociaal platform, vele andere functies en een zeer breed scala aan gebruikers wereldwijd. Er is geen noodzaak om met deze bedrijven te concurreren; dit zou meer geld, meer tijd en meer expertise vergen.
 
 Vanuit deze overtuiging word de Smartphone app simpel en doelgericht ontworpen.
+
+
 
 <img src="" width="200" height="200">
 
