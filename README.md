@@ -6,12 +6,7 @@
 Datum
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
   
 Blessures bij hardlopers vormen een veelvoorkomende uitdaging, zowel voor nieuwkomers als voor ervaren atleten. Het menselijk lichaam is complex en tijdens het hardlopen worden grote krachten uitgeoefend op de gewrichten, spieren, pezen en botten. Deze krachten kunnen leiden tot blessures als ze niet goed worden beheerd.
@@ -159,7 +154,7 @@ Om deze reden was er in dit project behoefte aan een terugblik op het voorgaande
 
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
 
-Uit de voorgaande tests bleek duidelijk dat de testpersonen behoefte hadden aan een product dat stevig vastzit en waar ze zich geen zorgen over hoeven te maken dat het loskomt. Ook moest het product geen bewegingen beperken of oncomfortabel maken. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De beste mogelijkheid volgens drie user interviews was een add-on met een koordstopper en een kunststoffen spijkervorm die door de gespgaatjes van het horloge bevestigd wordt. Een schets van dit concept staat hieronder afgebeeld (links horloge, rechts armbandje).
+Uit de voorgaande tests bleek duidelijk dat de testpersonen behoefte hadden aan een product dat stevig vastzit en waar ze zich geen zorgen over hoeven te maken dat het loskomt. Ook mocht het product geen bewegingen beperken of oncomfortabel maken. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De mogelijkheid, volgens drie user interviews, dat verder onderzocht diende te worden was een add-on met een koordstopper en een kunststoffen spijkervorm die door de gespgaatjes van het horloge bevestigd wordt. Een schets van dit concept staat hieronder afgebeeld (links horloge, rechts armbandje).
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/fd1f7f50-01d6-479d-a1db-4f2d3d2c3d75" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a0b8fe28-10b9-4d33-800b-c8da702f524b" width="200" height="200">
 
