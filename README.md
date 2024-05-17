@@ -180,13 +180,19 @@ Vanuit deze overtuiging word de Smartphone app simpel en doelgericht ontworpen.
 
 ## Ergonomie
 
+Het deel van dit project dat de ergonomie betereft is opgedeeld in 3 delen: The body, The mind en The senses. Hieronder wordt elk deel besproken.
+
+## The body
+
 ### Doestellingen
 
-Het doel van deze fase is om een ergonomisch ontwerp te creëren dat comfortabel en goed passend is voor een breed scala aan gebruikers, gebaseerd op de verzamelde antropometrische gegevens.
+Het doel van deze fase is om een fysiek ergonomisch ontwerp te creëren dat comfortabel en goed passend is voor een breed scala aan gebruikers, gebaseerd op de verzamelde antropometrische gegevens.
 
 ### Materiaal & methoden
 
-In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden (zoals benodigde drukkracht) van het ontwerp bepaald. Vervolgens werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp, dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de addon in te duwen. Voor de omtrek van het pols- of enkelbandje werd gezocht naar antropometrische data over de enkel- en polsomtrek van grote groepen testpersonen van mannen en vrouwen. Voor de addon werd data gebruikt over de pinch-kracht tussen de duim en wijsvinger.
+In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden (zoals benodigde drukkracht) van het ontwerp bepaald. Vervolgens werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp, dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de addon in te duwen. Voor de omtrek van het pols- of enkelbandje werd gezocht naar antropometrische data over de enkel- en polsomtrek van grote groepen testpersonen van mannen en vrouwen. Voor de addon werd data gebruikt van de pinch-kracht tussen de duim en wijsvinger. Deze data werd geanalyseerd en volgens aangeleerde methoden toegepast op het ontwerp van het product.
+
+
 
 ### Resultaten
 
