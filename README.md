@@ -142,7 +142,7 @@ Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onder
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
-Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen. Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie.
+Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen. Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Het prototype werd licht aangepast en de test werd herhaald, met een geleikaardig resultaat. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9759676a-f89a-4a4d-a054-0c258e0520f6" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a059f71-b9e9-4b1b-9a3e-e70c4e63fadc" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/858160b0-b26f-48dc-8707-855547b439f9" width="200" height="200">
 
@@ -174,13 +174,11 @@ Bij de smartphone-app die samengaat met het enkelbandje en de add-on was er om h
 
 Vanuit deze overtuiging word de Smartphone app simpel en doelgericht ontworpen.
 
-
-
 <img src="" width="200" height="200">
 
-## Ergonomie
+## Develop
 
-Het deel van dit project dat de ergonomie betereft is opgedeeld in 3 delen: The body, The mind en The senses. Hieronder wordt elk deel besproken.
+Het deel van dit project dat de ergonomie (develop-fase) betereft is opgedeeld in 3 delen: The body, The mind en The senses. Hieronder wordt elk deel besproken.
 
 ## The body
 
@@ -190,16 +188,50 @@ Het doel van deze fase is om een fysiek ergonomisch ontwerp te creëren dat comf
 
 ### Materiaal & methoden
 
-In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden (zoals benodigde drukkracht) van het ontwerp bepaald. Vervolgens werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp, dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de addon in te duwen. Voor de omtrek van het pols- of enkelbandje werd gezocht naar antropometrische data over de enkel- en polsomtrek van grote groepen testpersonen van mannen en vrouwen. Voor de addon werd data gebruikt van de pinch-kracht tussen de duim en wijsvinger. Deze data werd geanalyseerd en volgens aangeleerde methoden toegepast op het ontwerp van het product.
-
+In dit deel van de develop-fase van het ontwerpproces werden eerst alle afmetingen of waarden van het ontwerp bepaald. Dit betreft de omtrek van het pols- en enkelbandje en de benodigde kracht om de veer van de add-on in te duwen. Vervolgens werd de meest geschikte ontwerpstrategie voor elke maat bepaald. Voor de pols- en enkelband wordt "design for adjustability" toegepast en voor de add-on "design for the small". Daarna werd uitgebreid gezocht naar antropometrische data over deze delen van het ontwerp. Voor de omtrek van het pols- of enkelbandje werd gezocht naar data over de enkel- en polsomtrek van grote groepen testpersonen van zowel mannen als vrouwen. Voor de add-on werd data gebruikt van de pinch-kracht tussen de duim en wijsvinger. Deze data werd geanalyseerd en volgens aangeleerde methoden toegepast op het ontwerp van het product.
 
 
 ### Resultaten
 
+Bij het ontwerpen van het pols- en enkelbandje werd besloten zoveel mogelijk waarden te incuderen, omdat dit weinig impact heeft op het product. Aangezien mensen in de winter vaak extra kleding dragen, moet het bandje aanpasbaar zijn en speling hebben. Voor het polsbandje geldt een bereik van P1 vrouwen tot P99 mannen, wat neerkomt op 13,6-20 cm met extra speling voor de velcrobevestiging, wat volgens een simpele stevigheidstest resulteert in een minimum van 4 cm (uiteraard hangt dit af van het bandje en de soort velcro. De polsband wordt dus ontworpen met een lengte van 13,6-24cm. Voor het enkelbandje geldt een vergelijkbare aanpak: P1-P99 is 18-25 cm in omtrek, ook met extra speling voor de velcrobevestiging, wat volgens een simpele stevigheidstest ook resulteert in een minimum van 4 cm. Hierdoor is het enkelbandje ontworpen voor een bereik van 18-29 cm.
+
+Voor de pinch-kracht werd data bekeken voor vrouwen van 46-55 jaar oud, linkerhand (kleinste meting). De waarde van 3,5 kg (97,5% van deze groep) moet groter zijn dan de benodigde pinch-kracht, dit maakt dat verdere analyse van de data overbodig is (naderd P100). In de gebruikerstest die volgt wordt geaxperimenteerd met verschillende veerkrachten en verschillende soorten opzetstukken (onderdelen met de veer er in, de koordstopper) voor de add-on. Ook werd alvorens te testen het inzicht verworven dat de maximale drukkracht helemaal niet comfortabel is om uit te oefenen op een klein oppervlak.
+
+Om de ontwerpbeslissingen die gemaakt zijn bij de data-analyse over antropometrie te testen, verfijnen of bevestigen word een gebruikerstest uitgevoerd. Deze met als bedoeling de ergonomie van het polsbandje en add-on met lampje te testen. Hiervoor word op het lampje en op drie verschillende addon-mechanismen, met elk een verschillende veerkracht (allemaal onder de maximaal toegelaten waarde uit voorgaande bevindingen), velcro aangebracht om variety prototyping te vergemakkelijken. Dit is te zien in onderstaande afbeeldingen.
+
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f3c93f7b-55c8-4c21-8d53-802f9809b7d3" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/fa4ab6c9-0bf4-42fe-9fc8-b634c0df78ce" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c315dcfa-bf9e-4693-8d52-d8a9f5e5458d" width="200" height="200">
 
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
+
+ontwerpbeslissingen
+add-on indrukkracht < 3.5kg aangezien dit de maximale drukkracht van de kleinste meting is, is dit niet ergonomisch voor de persoon die deze waarde als max drukkracht heeft => kleiner ergonomischer
+voor polsbandje, verstelbaar en elastisch velcro bandje, 13.6-24cm lang
+
+## Bill of materials
+
+## The mind
+
+### Doelstellingen
+
+### Materiaal & methoden
+
+### Resultaten
+
+### Conclusies & implicaties
+
+## Bill of materials
+
+## The senses
+
+### Doelstellingen
+
+### Materiaal & methoden
+
+### Resultaten
+
+### Conclusies & implicaties
 
 ## Bill of materials
 - Welk
@@ -214,6 +246,7 @@ Definieer de belangrijkste designbeslissingen
 
 ## Kritische reflectie
 Max. 500 woorden
+<img src="" width="200" height="200">
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
