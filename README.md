@@ -168,7 +168,7 @@ Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eer
 
 Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke. Movesense verhandelt deze arm- en enkelbandjes ook zelf.
 
-<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dbe2077c-b95e-40a8-a7a2-cd3a553839a9" width="200" height="200">
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/85e93547-1802-4423-89c7-bb5385712b20" width="200" height="200">
 
 Bij de smartphone-app die samengaat met het enkelbandje en de add-on was er om hypothetische redenen behoefte aan verandering. De meeste mensen hebben veel apps met functies die ze niet gebruiken en mogelijk zelfs niet weten hoe ze deze moeten gebruiken. Dit heeft een negatieve invloed op de bruikbaarheid van de app en beïnvloedt op deze manier de bruikbaarheid van het hele product. Bij het ontwerpen van de functies van deze app moet het doel waarvoor de app is ontworpen in gedachten worden gehouden. Dit doel is het monitoren van schokken aan de enkel en het waarschuwen van de gebruiker. Andere apps zoals Runna, NikeRunClub, Strava, enzovoort, hebben al een trackingsysteem, een routebouwer, een sociaal platform, vele andere functies en een zeer breed scala aan gebruikers wereldwijd. Er is geen noodzaak om met deze bedrijven te concurreren; dit zou meer geld, meer tijd en meer expertise vergen.
 
