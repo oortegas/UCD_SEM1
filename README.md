@@ -209,10 +209,6 @@ Deze gebruikertest, uitgevoerd aan de hand van [testprotocol antropometrie](http
 
 Uit de test bleek dat een indrukkracht van minder dan 3,5 kg noodzakelijk is, aangezien dit de maximale drukkracht is voor de kleinste meting, wat ergonomisch niet geschikt is voor personen met deze waarde als maximum. Dit maakt dat de indrukkracht verder verminderd moet worden voor een ergonomischer ontwerp. Daarnaast bleek dat een verstelbaar polsbandje van 13 tot 24 cm lang gemakkelijk te bevestingen is en stevig vast zit. De toevoeging van velcro vergemakkelijkte de bevestiging en aanpassing, wat de bruikbaarheid en het comfort van de add-ons verbeterde, echter was dit toegevoegd voor het vergemakkelijken van de test en wordt niet geimplementeerd in het ontwerp om stabiliteit te behouden. Een gedetailleerd rapport van de resultaten en analyse van de test is hier te vinden.
 
-ontwerpbeslissingen
-add-on indrukkracht < 3.5kg aangezien dit de maximale drukkracht van de kleinste meting is, is dit niet ergonomisch voor de persoon die deze waarde als max drukkracht heeft => kleiner ergonomischer
-voor polsbandje, verstelbaar en elastisch velcro bandje, 13.6-24cm lang
-
 ## Bill of materials
 
 ## The mind
@@ -269,20 +265,27 @@ Max. 500 woorden
 
 <img src="" width="200" height="200">
 
+### Protocols
+
 [Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "ALT TEXT")
 
 [Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "ALT TEXT")
 
 [testprotocol. antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie")
 
+[TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "ALT TEXT")
+
+[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "ALT TEXT")
+
+### Resultaten en analyses
+
+
+
 [3_Figma_prototypes_APP](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/prototypes%20apps.fig "3_Figma_prototypes_APP")
 
 [RunLight App_finaal](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/RunLightapp_finaal.fig "ALT TEXT")
 
-[TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "ALT TEXT")
-
 [Hierarchische taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Hi%C3%ABrarchische%20taakanalyse.docx "ALT TEXT")
 
-[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "ALT TEXT")
 
 
