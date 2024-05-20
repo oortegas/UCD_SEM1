@@ -265,8 +265,6 @@ Max. 500 woorden
 
 ## Bijlagen
 
-[link text](files/path/to/file "ALT TEXT")
-
 [Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "ALT TEXT")
 
 [Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "ALT TEXT")
@@ -280,4 +278,7 @@ Max. 500 woorden
 [TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "ALT TEXT")
 
 [Hierarchische taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Hi%C3%ABrarchische%20taakanalyse.docx "ALT TEXT")
+
+[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "ALT TEXT")
+
 
