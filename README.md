@@ -249,7 +249,6 @@ Max. 500 woorden
 <img src="" width="200" height="200">
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 -Glance team. (2013, 1 juli). Kickstarter. https://www.kickstarter.com/profile/1742184757
 
@@ -265,4 +264,4 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
 
-[link text]( "ALT TEXT")
+[link text](testprotocol "ALT TEXT")
