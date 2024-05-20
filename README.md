@@ -142,7 +142,7 @@ Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onder
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
-Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen. Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Het prototype werd licht aangepast en de test werd herhaald, met een geleikaardig resultaat. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie.
+Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen aan de hand van een testprotocol, [Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "Testprotocol Glance"). Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Het prototype werd licht aangepast en de test werd herhaald, met een geleikaardig resultaat. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie. Een uitgebreide analyse bevindt zich hier, [Resultalen en analyse glancetest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20analyse%20Glance.docx "Resultalen en analyse glancetest").
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9759676a-f89a-4a4d-a054-0c258e0520f6" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a059f71-b9e9-4b1b-9a3e-e70c4e63fadc" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/858160b0-b26f-48dc-8707-855547b439f9" width="200" height="200">
 
@@ -267,25 +267,41 @@ Max. 500 woorden
 
 ### Protocols
 
-[Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "ALT TEXT")
+[Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "Testprotocol Glance")  V
 
-[Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "ALT TEXT")
+[Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "Tesprotocol Koordstopper-Add-on")
 
 [testprotocol. antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie")
 
-[TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "ALT TEXT")
+[Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx)
 
-[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "ALT TEXT")
+[TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "TestProtocol RunLight App")
+
+[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "Testprotocol user_journey")
 
 ### Resultaten en analyses
 
+[Resultalen en analyse glancetest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20analyse%20Glance.docx "Resultalen en analyse glancetest")  V
 
+[Resultalen en analyse koordstoppertest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/resultaten%20en%20analyse%20koordstopper.docx "Resultalen en analyse koordstoppertest")
+
+[Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie")
+
+[Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert%20Review%20Analyse.docx "Analyse expert review")
+
+[Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp")
+
+[Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
+
+Resultaten en Analyse user journey test
+
+### andere
 
 [3_Figma_prototypes_APP](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/prototypes%20apps.fig "3_Figma_prototypes_APP")
 
-[RunLight App_finaal](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/RunLightapp_finaal.fig "ALT TEXT")
+[RunLight App_finaal](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/RunLightapp_finaal.fig "RunLight App_finaal")
 
-[Hierarchische taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Hi%C3%ABrarchische%20taakanalyse.docx "ALT TEXT")
+[Hierarchische taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Hi%C3%ABrarchische%20taakanalyse.docx "Hierarchische taakanalyse")
 
 
 
