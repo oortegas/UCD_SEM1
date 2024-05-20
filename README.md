@@ -201,7 +201,7 @@ Om de ontwerpbeslissingen die gemaakt zijn bij de data-analyse over antropometri
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f3c93f7b-55c8-4c21-8d53-802f9809b7d3" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/fa4ab6c9-0bf4-42fe-9fc8-b634c0df78ce" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c315dcfa-bf9e-4693-8d52-d8a9f5e5458d" width="200" height="200">
 
-Deze gebruikertest [testprotocol antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie") wordt uitgevoerd om de bruikbaarheid en stevigheid van de verschillende add-ons te evalueren met speciale aandacht voor de benodigde drukkrachten voor indrukking van de add-on. Hiervoor werden de testpersonen gevraagd om elke add-on een keer op het horloge en het bandje te bevestigen en werd gepeild naar hoe moeilijk dit uit te voeren was voor de gebruiker, ook werd gekeken naar de stevigheid van de add-on.
+Deze gebruikertest, uitgevoerd aan de hand van [testprotocol antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie"), wordt uitgevoerd om de bruikbaarheid en stevigheid van de verschillende add-ons te evalueren met speciale aandacht voor de benodigde drukkrachten voor indrukking van de add-on. Hiervoor werden de testpersonen gevraagd om elke add-on een keer op het horloge en het bandje te bevestigen en werd gepeild naar hoe moeilijk dit uit te voeren was voor de gebruiker, ook werd gekeken naar de stevigheid van de add-on.
 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
