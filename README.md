@@ -213,15 +213,23 @@ Uit de test bleek dat een indrukkracht van minder dan 3,5 kg noodzakelijk is, aa
 
 ## The mind
 
-Het doel van deze develop-fase was om een gebruiksvriendelijke en aantrekkelijke interactieve app te ontwikkelen en te verfijnen door middel van een iteratief proces van ontwerp, testing, en feedbackimplementatie. 
-
 ### Doelstellingen
+
+Het doel van deze develop-fase was om een gebruiksvriendelijke en aantrekkelijke interactieve app te ontwikkelen en te verfijnen door middel van een iteratief proces van ontwerpen, reviews en gebruikerstesten, en feedbackimplementatie. De focus lag hier bij de usability en de user experience van het ontwerp.
 
 ### Materiaal & methoden
 
-De ontwerpfase van de app volgde een gebruiksgerichte ontwerpbenadering, waarbij de nadruk lag op de gebruiker en hun interactie met het product.
+De ontwerpfase van de app volgde een gebruiksgerichte bandering, waarbij de nadruk lag op de gebruiker en hun interactie met het product. Door middel van een iteratief proces van ontwerpen, reviews en gebruikerstesten, en feedbackimplementatie werd een app ontworpen die tracht te voldoen aan de eisen van de gerbuiker en dit op een gebruiksvriendelijke en interactieve manier.
+
+Voor het ontwikkelen van de prototypes werden de volgende stappen ondernomen: eerst werd begonnen met het ontwerp van interactieve app-prototypes met verschillende aangeleerde concepten en ideeën in het achterhoofd zoals The 4 principles of good design (Norman, 1988), Foggs behavioural model waarbij verschillende ontwerpconcepten werden uitgewerkt en getest. Ook werden vele andere aangeleerde principes bestudeerd en geintegreerd, zoals zoomorphisme, Attention economy(behavioural design) en habit forming(ook Fogg).
+
+Vervolgens werden de prototypes onderworpen aan een expert review en heuristische evaluatie, waarbij ze beoordeeld werden op basis van verschillende heuristieken zoals zichtbaarheid, het gebruik van universele ervaringen, esthetisch en minimalistisch ontwerp, en onmiddellijke feedback op acties. Deze review werd gamaakt aan de hand van een vooraf opgesteld formulier: [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx).
+
+Ten slotte werd de gebruikerservaring beoordeeld door zowel experts als gebruikers. Deze gebruikers gaven waardevolle feedback en suggesties voor verbeteringen, wat leidde tot verdere verfijning en optimalisatie van de prototypes. Hiervoor werd een protocol opgesteld:[TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "TestProtocol RunLight App").
 
 ### Resultaten
+
+Voor de expert review is het doel de evaluatie van de prototypes op basis van heuristieken en designprincipes. Het evaluatiekader is gebaseerd op Nielsen’s heuristieken en aanvullende designprincipes zoals zichtbaarheid, eenvoud en directe feedback. De review werd uitgevoerd door twee medestudenten die beide ervaring hadden met het gebruik van smartphone apps. Zij gebruikten een specifiek opgesteld formulier voor de evaluatie, waarbij zij scores en feedback gaven op verschillende aspecten van de prototypes. De resultaten en de analyse van deze expert review zijn te vinden in deze bijlage:[Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert%20Review%20Analyse.docx "Analyse expert review").
 
 ### Conclusies & implicaties
 
@@ -265,6 +273,8 @@ Max. 500 woorden
 
 -About us. Runeasi. https://runeasi.ai/about-us/
 
+-Norman, D. (2013). The design of everyday things: Revised and Expanded Edition. Hachette UK.
+
 ## Bijlagen
 
 <img src="" width="200" height="200">
@@ -277,8 +287,8 @@ Max. 500 woorden
 
 [testprotocol. antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie") 
 
-
 [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx)
+
 
 [TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "TestProtocol RunLight App")
 
@@ -292,8 +302,8 @@ Max. 500 woorden
 
 [Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie") 
 
-
 [Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert%20Review%20Analyse.docx "Analyse expert review")
+
 
 [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp")
 
