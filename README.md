@@ -267,11 +267,12 @@ Max. 500 woorden
 
 ### Protocols
 
-[Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "Testprotocol Glance")  V
+[Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "Testprotocol Glance")  
 
-[Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "Tesprotocol Koordstopper-Add-on")
+[Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "Tesprotocol Koordstopper-Add-on") 
 
-[testprotocol. antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie") V
+[testprotocol. antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testprotocol%20addon%20antropologie.docx "test antropometrie") 
+
 
 [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx)
 
@@ -281,11 +282,12 @@ Max. 500 woorden
 
 ### Resultaten en analyses
 
-[Resultalen en analyse glancetest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20analyse%20Glance.docx "Resultalen en analyse glancetest")  V
+[Resultalen en analyse glancetest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20analyse%20Glance.docx "Resultalen en analyse glancetest")  
 
-[Resultalen en analyse koordstoppertest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/resultaten%20en%20analyse%20koordstopper.docx "Resultalen en analyse koordstoppertest")
+[Resultalen en analyse koordstoppertest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/resultaten%20en%20analyse%20koordstopper.docx "Resultalen en analyse koordstoppertest") 
 
-[Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie") V
+[Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie") 
+
 
 [Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert%20Review%20Analyse.docx "Analyse expert review")
 
