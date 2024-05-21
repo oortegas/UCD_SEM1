@@ -213,9 +213,13 @@ Uit de test bleek dat een indrukkracht van minder dan 3,5 kg noodzakelijk is, aa
 
 ## The mind
 
+Het doel van deze develop-fase was om een gebruiksvriendelijke en aantrekkelijke interactieve app te ontwikkelen en te verfijnen door middel van een iteratief proces van ontwerp, testing, en feedbackimplementatie. 
+
 ### Doelstellingen
 
 ### Materiaal & methoden
+
+De ontwerpfase van de app volgde een gebruiksgerichte ontwerpbenadering, waarbij de nadruk lag op de gebruiker en hun interactie met het product.
 
 ### Resultaten
 
@@ -304,6 +308,8 @@ Resultaten en Analyse user journey test
 [RunLight App_finaal](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/RunLightapp_finaal.fig "RunLight App_finaal")
 
 [Hierarchische taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Hi%C3%ABrarchische%20taakanalyse.docx "Hierarchische taakanalyse")
+
+MIRO: https://miro.com/app/board/uXjVNZS6Jq4=/
 
 
 
