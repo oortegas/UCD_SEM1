@@ -207,7 +207,7 @@ Deze gebruikertest, uitgevoerd aan de hand van [testprotocol antropometrie](http
 
 ### Conclusies & implicaties
 
-Uit de test bleek dat een indrukkracht van minder dan 3,5 kg noodzakelijk is, aangezien dit de maximale drukkracht is voor de kleinste meting, wat ergonomisch niet geschikt is voor personen met deze waarde als maximum. Dit maakt dat de indrukkracht verder verminderd moet worden voor een ergonomischer ontwerp. Daarnaast bleek dat een verstelbaar polsbandje van 13 tot 24 cm lang gemakkelijk te bevestingen is en stevig vast zit. De toevoeging van velcro vergemakkelijkte de bevestiging en aanpassing, wat de bruikbaarheid en het comfort van de add-ons verbeterde, echter was dit toegevoegd voor het vergemakkelijken van de test en wordt niet geimplementeerd in het ontwerp om stabiliteit te behouden. Een gedetailleerd rapport van de resultaten en analyse van de test is hier terug te vinden: [Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie").
+Uit de data-analyse en test bleek dat een indrukkracht van minder dan 3,5 kg noodzakelijk is, aangezien dit de maximale drukkracht is voor de kleinste meting, wat ergonomisch niet geschikt is voor personen met deze waarde als maximum. Dit maakt dat de indrukkracht verder verminderd moet worden voor een ergonomischer ontwerp. Daarnaast bleek dat een verstelbaar polsbandje van 13 tot 24 cm lang gemakkelijk te bevestingen is en stevig vast zit. De toevoeging van velcro vergemakkelijkte de bevestiging en aanpassing, wat de bruikbaarheid en het comfort van de add-ons verbeterde, echter was dit toegevoegd voor het vergemakkelijken van de test en wordt niet geimplementeerd in het ontwerp om stabiliteit te behouden. Een gedetailleerd rapport van de resultaten en analyse van de test is hier terug te vinden: [Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie").
 
 ## The mind
 
@@ -243,6 +243,10 @@ De expert reviews benadrukten de esthetische aantrekkelijkheid en de duidelijkhe
 ### Doelstellingen
 
 ### Materiaal & methoden
+
+[Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
+
+[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "Testprotocol user_journey")
 
 ### Resultaten
 
@@ -292,7 +296,6 @@ Max. 500 woorden
 
 [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx)
 
-
 [TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "TestProtocol RunLight App")
 
 [Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "Testprotocol user_journey")
@@ -309,7 +312,6 @@ Max. 500 woorden
 
 [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp")
 
-
 [Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
 
 Resultaten en Analyse user journey test
@@ -319,8 +321,6 @@ Resultaten en Analyse user journey test
 [3_Figma_prototypes_APP](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/prototypes%20apps.fig "3_Figma_prototypes_APP")
 
 [RunLight App_finaal](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/RunLightapp_finaal.fig "RunLight App_finaal")
-
-[Hierarchische taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Hi%C3%ABrarchische%20taakanalyse.docx "Hierarchische taakanalyse")
 
 MIRO: https://miro.com/app/board/uXjVNZS6Jq4=/
 
