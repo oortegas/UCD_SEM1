@@ -223,13 +223,17 @@ De ontwerpfase van de app volgde een gebruiksgerichte bandering, waarbij de nadr
 
 Voor het ontwikkelen van de prototypes werden de volgende stappen ondernomen: eerst werd begonnen met het ontwerp van interactieve app-prototypes met verschillende aangeleerde concepten en ideeën in het achterhoofd zoals The 4 principles of good design (Norman, 1988), Foggs behavioural model waarbij verschillende ontwerpconcepten werden uitgewerkt en getest. Ook werden vele andere aangeleerde principes bestudeerd en geintegreerd, zoals zoomorphisme, Attention economy(behavioural design) en habit forming(ook Fogg). Ook voor de add-on werden veschillende aangeleerde strategieën onderzocht.
 
-Vervolgens werden de prototypes onderworpen aan een expert review en heuristische evaluatie, waarbij ze beoordeeld werden op basis van verschillende heuristieken zoals zichtbaarheid, het gebruik van universele ervaringen, esthetisch en minimalistisch ontwerp, en onmiddellijke feedback op acties. Deze review werd gamaakt aan de hand van een vooraf opgesteld formulier: [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx).
+Vervolgens werden de prototypes onderworpen aan een expert review en heuristische evaluatie, waarbij ze beoordeeld werden op basis van verschillende heuristieken. Het evaluatiekader van de review is voor enkele criteria gebaseerd op Nielsen’s heuristieken en aanvullende designprincipes zoals zichtbaarheid, eenvoud en directe feedback. De review werd uitgevoerd door twee medestudenten die beide ervaring hadden met het gebruik van smartphone apps. Zij gebruikten een specifiek opgesteld formulier voor de evaluatie, waarbij ze scores en feedback gaven op verschillende aspecten van de prototypes. Deze review werd gamaakt aan de hand van een vooraf opgesteld formulier: [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx).
 
 Ten slotte werd de gebruikerservaring beoordeeld door zowel experts als gebruikers. Deze gebruikers gaven waardevolle feedback en suggesties voor verbeteringen, wat leidde tot verdere verfijning en optimalisatie van de prototypes. Hiervoor werd een protocol opgesteld:[TestProtocol RunLight App](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Protocol_test_RLApp.docx "TestProtocol RunLight App").
 
 ### Resultaten
 
-Voor de expert review is het doel de evaluatie van de prototypes op basis van heuristieken en designprincipes. Het evaluatiekader is gebaseerd op Nielsen’s heuristieken en aanvullende designprincipes zoals zichtbaarheid, eenvoud en directe feedback. De review werd uitgevoerd door twee medestudenten die beide ervaring hadden met het gebruik van smartphone apps. Zij gebruikten een specifiek opgesteld formulier voor de evaluatie, waarbij zij scores en feedback gaven op verschillende aspecten van de prototypes. De resultaten en de analyse van deze expert review zijn te vinden in deze bijlage:.
+Bij de expert review vonden de reviewers over het algemeen dat de apps enkele sterke punten hadden, zoals duidelijkheid in foutmeldingen en een esthetisch aantrekkelijk ontwerp. Echter, er werden ook verschillende verbeterpunten aangegeven. Zo werd opgemerkt dat sommige grafieken en diagrammen beter leesbaar moeten worden gemaakt, vooral voor kleurenblinden. Daarnaast werd het gebruik van dieren in de interface positief ontvangen, maar niet geschikt geacht voor professionele gebruikers. Andere opmerkingen betroffen de navigatie in de app, waarbij werd gesuggereerd om onnodige tabs te verwijderen en een meer intuïtieve navigatiestructuur te introduceren. Feedback op acties werd als duidelijk beoordeeld, maar het werd aanbevolen om meer uitleg en mogelijke oplossingen bij foutmeldingen te geven. De reviewers stelden ook voor om de statistiekenweergave uit te breiden zodat gebruikers deze over langere periodes kunnen bekijken. Deze feedback heeft geleid tot verdere optimalisatie van twee van de drie prototypes, later werd hier een keuze tussen gemaakt en was het uiteindelijke resultaat één finale app.
+De gedetailleerde resultaten en analyse van deze review is te vinden in de bijlage: [Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert-Review%20Analyse.docx "Analyse expert review").
+
+Bij de gebruikerstests vonden de testpersonen het ontwerp van de app aantrekkelijk en waardeerden het ontbreken van advertenties. De dieren in de app werden over het algemeen als leuk en speels ervaren, maar er werd ook vermeld dat de optie om de dieren uit te schakelen werd geapprecieerd. De overzichtelijkheid van de app zonder onnodige functies werd positief ontvangen. Echter, de zichtbaarheid van bepaalde visuele elementen, zoals grafieken en diagrammen, zou verbeterd kunnen worden. De gebruikers merkten ook op dat de animaties vloeiender zouden kunnen zijn voor een betere ervaring. Daarnaast werd voorgesteld om de app meer personaliseerbaar te maken, bijvoorbeeld door gebruikers de mogelijkheid te geven om kleurencombinaties aan te passen. De gecombineerde feedback uit deze usability test werd zo goed mogelijk geimplementeerd in de uiteindelijke app en leidde tot een geoptimaliseerd resultaat. De gedetailleerde resultaten en analyse van deze gebruikerstests zijn te vinden in de bijlage: [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp").
+
 
 ### Conclusies & implicaties
 
@@ -302,10 +306,10 @@ Max. 500 woorden
 
 [Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie") 
 
-[Analyse expert review]( "Analyse expert review")
-
+[Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert-Review%20Analyse.docx "Analyse expert review")
 
 [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp")
+
 
 [Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
 
