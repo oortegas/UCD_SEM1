@@ -206,10 +206,10 @@ Om de ontwerpbeslissingen die gemaakt zijn bij de data-analyse over antropometri
 
 Tijdens de test ondervonden deelnemers moeite met de add-on waarbij de drukkracht dichter bij de maximale waarde van 3,5 kg lag. Dit wijst erop dat een lagere benodigde drukkracht ergonomischer is, vooral voor personen met een lagere maximale drukkracht. Daarnaast bleek de stevigheid van de add-ons te variëren afhankelijk van de veerkracht en bevestigingsmechanismen. Een add-on met een lagere veerkracht was minder stabiel en kon draaien, waardoor het lampje niet meer naar de gebruiker scheen. Het vinden van een balans tussen een lage drukkracht voor gebruiksgemak en voldoende veerkracht voor een stabiele bevestiging is dus van groot belang. Het verstelbare velcro bandje bleek goed te passen binnen een lengte van 13,6 tot 24 cm en werd over het algemeen als comfortabel ervaren. Echter werd gesteld dat er nood was aan elasticiteit in het bandje, idem voor de enkelband. Hieronder staan afbeeldingen van de test, genomen tijdens het testen.
 
-<img src="" width="200" height="200"> 
-<img src="" width="200" height="200"> 
-<img src="" width="200" height="200"> 
-<img src="" width="200" height="200">
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/869a07c7-d063-4f1e-87e1-4578d734d07a" width="200" height="200"> 
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/25ef3ace-ff76-4350-a812-4844b3a28830" width="200" height="200"> 
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/8b35750e-2365-4f7d-ab0e-4449bad7c45c" width="200" height="200"> 
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/ff6d4e36-4440-450d-9073-9026cc7edc61" width="200" height="200">
 
 Een gedetailleerd rapport van de resultaten en analyse van de test is hier terug te vinden: [Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie").
 
@@ -227,7 +227,9 @@ Het doel van deze develop-fase was om een gebruiksvriendelijke en aantrekkelijke
 
 De ontwerpfase van de app volgde een gebruiksgerichte bandering, waarbij de nadruk lag op de gebruiker en hun interactie met het product. Door middel van een iteratief proces van ontwerpen, reviews en gebruikerstesten, en feedbackimplementatie werd een app ontworpen die tracht te voldoen aan de eisen van de gerbuiker en dit op een gebruiksvriendelijke en interactieve manier.
 
-Voor het ontwikkelen van de prototypes werden de volgende stappen ondernomen: eerst werd begonnen met het ontwerp van interactieve app-prototypes met verschillende aangeleerde concepten en ideeën in het achterhoofd zoals The 4 principles of good design (Norman, 1988), Foggs behavioural model waarbij verschillende ontwerpconcepten werden uitgewerkt en getest. Ook werden vele andere aangeleerde principes bestudeerd en geintegreerd, zoals zoomorphisme, Attention economy(behavioural design) en habit forming(ook Fogg). Ook voor de add-on werden veschillende aangeleerde strategieën onderzocht.
+Voor het ontwikkelen van de prototypes werden de volgende stappen ondernomen: eerst werd begonnen met het ontwerp van interactieve app-prototypes ([3_Figma_prototypes_APP](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/prototypes%20apps.fig "3_Figma_prototypes_APP")) met verschillende aangeleerde concepten en ideeën in het achterhoofd zoals The 4 principles of good design (Norman, 1988), Foggs behavioural model waarbij verschillende ontwerpconcepten werden uitgewerkt en getest. Ook werden vele andere aangeleerde principes en strategieën bestudeerd en geintegreerd, zoals zoomorphisme, Attention economy(behavioural design) en habit forming(ook Fogg). Ook voor de add-on werden veschillende aangeleerde strategieën onderzocht.
+
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4dc6c561-40e9-4108-9786-a93fdf12fa45" width="200" height="300">
 
 Vervolgens werden de prototypes onderworpen aan een expert review en heuristische evaluatie, waarbij ze beoordeeld werden op basis van verschillende heuristieken. Het evaluatiekader van de review is voor enkele criteria gebaseerd op Nielsen’s heuristieken en aanvullende designprincipes zoals zichtbaarheid, eenvoud en directe feedback. De review werd uitgevoerd door twee medestudenten die beide ervaring hadden met het gebruik van smartphone apps. Zij gebruikten een specifiek opgesteld formulier voor de evaluatie, waarbij ze scores en feedback gaven op verschillende aspecten van de prototypes. Deze review werd gamaakt aan de hand van een vooraf opgesteld formulier: [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx).
 
@@ -240,11 +242,11 @@ De gedetailleerde resultaten en analyse van deze review is te vinden in de bijla
 
 Bij de gebruikerstests vonden de testpersonen het ontwerp van de app aantrekkelijk en waardeerden het ontbreken van advertenties. De dieren in de app werden over het algemeen als leuk en speels ervaren, maar er werd ook vermeld dat de optie om de dieren uit te schakelen werd geapprecieerd. De overzichtelijkheid van de app zonder onnodige functies werd positief ontvangen. Echter, de zichtbaarheid van bepaalde visuele elementen, zoals grafieken en diagrammen, zou verbeterd kunnen worden. De gebruikers merkten ook op dat de animaties vloeiender zouden kunnen zijn voor een betere ervaring. Daarnaast werd voorgesteld om de app meer personaliseerbaar te maken, bijvoorbeeld door gebruikers de mogelijkheid te geven om kleurencombinaties aan te passen. De gecombineerde feedback uit deze usability test werd zo goed mogelijk geimplementeerd in de uiteindelijke app en leidde tot een geoptimaliseerd resultaat. De gedetailleerde resultaten en analyse van deze gebruikerstests zijn te vinden in de bijlage: [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp").
 
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/18e38abc-01f8-4699-8749-484b50a8029f" width="200" height="400">
+
 ### Conclusies & implicaties
 
-De ontwikkelingsfase van de interactieve app heeft geleid tot een gebruiksvriendelijk en aantrekkelijk product met een sterke focus op de gebruikerservaring. De iteratieve aanpak, waarbij ontwerpen, expert reviews en gebruikerstests elkaar opvolgden, zorgde voor voortdurende verfijning op basis van waardevolle feedback.
-
-De expert reviews benadrukten de esthetische aantrekkelijkheid en de duidelijkheid van foutmeldingen, terwijl ze ook wezen op verbeterpunten zoals de leesbaarheid van grafieken en de navigatiestructuur. Deze inzichten leidden tot significante optimalisaties en de keuze voor één finaal app-prototype. De gebruikerstests bevestigden dat de app aantrekkelijk en overzichtelijk was, en de speelse elementen zoals dieren werden positief ontvangen. Er was echter behoefte aan verbeteringen in zichtbaarheid van bepaalde onderdelen en vloeiendheid van animaties. Deze feedback werd geïntegreerd om de gebruiksvriendelijkheid verder te vergroten.
+De expert reviews benadrukten de esthetische aantrekkelijkheid en de duidelijkheid van foutmeldingen, terwijl ze ook wezen op verbeterpunten zoals de leesbaarheid van grafieken en de navigatiestructuur. Deze inzichten leidden tot significante optimalisaties en de keuze voor één finaal app-prototype. De gebruikerstests bevestigden dat de app aantrekkelijk en overzichtelijk was, en de speelse elementen zoals dieren werden positief ontvangen. Er was echter behoefte aan verbeteringen in zichtbaarheid van bepaalde onderdelen en vloeiendheid van animaties. Deze feedback werd geïntegreerd om de app verder te optimaliseren en gebruiksvriendelijk te maken.
 
 ## The senses
 
