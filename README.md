@@ -242,7 +242,7 @@ De gedetailleerde resultaten en analyse van deze review is te vinden in de bijla
 
 Bij de gebruikerstests vonden de testpersonen het ontwerp van de app aantrekkelijk en waardeerden het ontbreken van advertenties. De dieren in de app werden over het algemeen als leuk en speels ervaren, maar er werd ook vermeld dat de optie om de dieren uit te schakelen werd geapprecieerd. De overzichtelijkheid van de app zonder onnodige functies werd positief ontvangen. Echter, de zichtbaarheid van bepaalde visuele elementen, zoals grafieken en diagrammen, zou verbeterd kunnen worden. De gebruikers merkten ook op dat de animaties vloeiender zouden kunnen zijn voor een betere ervaring. Daarnaast werd voorgesteld om de app meer personaliseerbaar te maken, bijvoorbeeld door gebruikers de mogelijkheid te geven om kleurencombinaties aan te passen. De gecombineerde feedback uit deze usability test werd zo goed mogelijk geimplementeerd in de uiteindelijke app en leidde tot een geoptimaliseerd resultaat. De gedetailleerde resultaten en analyse van deze gebruikerstests zijn te vinden in de bijlage: [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp").
 
-<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/18e38abc-01f8-4699-8749-484b50a8029f" width="200" height="400">
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/18e38abc-01f8-4699-8749-484b50a8029f" width="200" height="450">
 
 ### Conclusies & implicaties
 
