@@ -45,7 +45,7 @@ In de tweede fase werd opnieuw gedivergeerd met ideation met behulp van een bezo
 
 Daarna moest opnieuw een keuze gemaakt worden tussen verschillende concepten en ideeën. Om dit te verwezenlijken werden gebruikerstesten uitgevoerd, zo werden snelle beslissingen genomen op basis van de resultaten van de testen.
 
-## Na fork
+### Na fork
 
 Na het eerste semester werd besloten het project van een team van twee studenten op te splitsen in twee verschillende projecten. In dit project werd aanvankelijk voortgebouwd op de voorgaande concepten en inzichten. Later bleek echter dat er behoefte was aan een terugblik op het eerste semester. Daarom werden verschillende methoden, zoals gebruikerstesten en interviews, toegepast om het voorgaande te verifiëren. Hieruit kwamen enigszins verschillende concepten naar voren dan die van het eerste semester, namelijk een andere aanpak voor de add-on en de smartphone-app. Hier wordt verder in dit verslag dieper op ingegaan.
 
