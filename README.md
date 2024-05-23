@@ -297,7 +297,24 @@ De zichtbaarheid van de licht signalen moet worden verbeterd, bijvoorbeeld door 
 - Prototype
 
 ## Kritische reflectie
-Max. 500 woorden
+
+Tijdens het ontwerpproces heb ik goed nagedacht over de stappen die ik nam en de keuzes die ik maakte. Eerst heb ik zorgvuldig gekeken naar wat het project nodig had en welke doelen we wilden bereiken. Soms merkte ik dat mijn eerste ideeën niet diep genoeg gingen, dat dwong me om beter te kijken en te leren mijn keuzes te verantwoorden.
+
+In het begin van het ontwerpproces werd de opdracht in een team van twee studenten uitgevoerd. Dit verliep initieel vlot, maar tegen het einde van het eerste semester bleek het gebrek aan duidelijke communicatie een valkuil. Om deze reden werd het team opgesplitst en gingen we beiden verder met onze eigen verdere invulling voor de opdracht.
+
+Een lastig deel was het bedenken van nieuwe ideeën. Ik voelde soms de druk om binnen bepaalde grenzen te blijven en dat botste met mijn creativiteit. Het was soms moeilijk om originele oplossingen te vinden die ik dacht handig waren voor de gebruiker én pasten bij wat het bedrijf en de docenten verwachtten. Later bleek echter, na een korte dialoog met een van de docenten, dat we heel vrij waren in hoe we de opdracht uitvoerden. Deze gedachtegang vergemakkelijkte het maken van beslissingen en liet zo alles wat vlotter verlopen.
+
+De iteratieve aard van het proces was ook uitdagend. Ik kreeg feedback en paste het ontwerp daarop aan maar soms was ik niet helemaal tevreden met het resultaat. Dat gaf me twijfels over of ik wel de juiste keuzes maakte. Ook duurde het daarom vaak lang voordat verder kon worden gegaan naar een nieuwe ontwerpfase.
+
+Een belangrijk punt waar ik kritisch op terugkijk in dit ontwerpproces is dat ik , in tegenstelling tot andere projecten, niet genoeg aandacht heb besteed aan het maken en bijhouden van prototypes. Omdat ik te weinig prototypes gemaakt heb, heb ik kansen gemist om problemen vroeg te ontdekken en op te lossen.
+
+Tijdens dit project besefte ik hoe waardevol feedback van buitenstaanders of medestudenten eigenlijk is. In eerste instantie had ik niet altijd door hoeveel nieuwe inzichten zij konden brengen. Door de verschillende perspectieven die anderen bieden, kreeg ik toegang tot nieuwe denkwijzen en benaderingen. Het is niet altijd gemakkelijk om een bestaande gedachtegang te veranderen of een nieuwe te implementeren, maar het resultaat loont altijd.
+
+In een filosofische vlaag (van beperkte kwaliteit), tijdens het kijken van een documantaire hoorde ik deze bekende quote: "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen." - Winston Churchill  
+Dit vond ik zeer inspirerend en ik kon het niet laten dit hier te vermelden. Het herinnert me eraan dat het openstaan voor nieuwe en andere ideeën niet altijd gemakkelijk is maar altijd de moeite waard is.
+
+Al bij al was dit een zeel leerrijke opdracht, ondanks (of dankzij?) de moeilijkheden bood het ontwerpproces veel kansen om bij te leren. Door goed te kijken naar wat ik deed en wat er fout ging, kon ik mijn ontwerpvaardigheden uitbreiden.
+
 
 ## Bronnen
 
