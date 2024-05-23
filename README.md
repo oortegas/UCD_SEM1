@@ -222,16 +222,22 @@ Bij het ontwerpen van het pols- en enkelbandje werd besloten zoveel mogelijk waa
 
 Voor de pinch-kracht werd data bekeken voor vrouwen van 46-55 jaar oud, linkerhand (kleinste meting). De waarde van 3,5 kg (97,5% van deze groep) moet groter zijn dan de benodigde pinch-kracht, dit maakt verdere analyse van de data overbodig (naderd P100). In de gebruikerstest die volgt wordt geaxperimenteerd met verschillende veerkrachten en verschillende soorten opzetstukken (onderdelen met de veer er in, de koordstopper) voor de add-on. Ook werd alvorens te testen het inzicht verworven dat de maximale drukkracht helemaal niet comfortabel is om uit te oefenen op een klein oppervlak.
 
-Om de ontwerpbeslissingen die gemaakt zijn bij de data-analyse over antropometrie te testen, verfijnen of bevestigen word een gebruikerstest uitgevoerd. Deze met als bedoeling de ergonomie van het polsbandje en add-on met lampje te testen. Hiervoor word op het lampje en op drie verschillende addon-mechanismen, met elk een verschillende veerkracht (allemaal onder de maximaal toegelaten waarde uit voorgaande bevindingen), velcro aangebracht om variety prototyping te vergemakkelijken. Dit is te zien in onderstaande afbeeldingen.
+Om de ontwerpbeslissingen die gemaakt zijn bij de data-analyse over antropometrie te testen, verfijnen of bevestigen word een gebruikerstest uitgevoerd. Deze met als bedoeling de ergonomie van het polsbandje en add-on met lampje te testen. Hiervoor word op het lampje en op drie verschillende addon-mechanismen, met elk een verschillende veerkracht (allemaal onder de maximaal toegelaten waarde uit voorgaande bevindingen), velcro aangebracht om variety prototyping te vergemakkelijken. Dit is te zien in onderstaande afbeeldingen op figuur 22-24.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f3c93f7b-55c8-4c21-8d53-802f9809b7d3" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/fa4ab6c9-0bf4-42fe-9fc8-b634c0df78ce" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c315dcfa-bf9e-4693-8d52-d8a9f5e5458d" width="200" height="200">
 
-Tijdens de test ondervonden deelnemers moeite met de add-on waarbij de drukkracht dichter bij de maximale waarde van 3,5 kg lag. Dit wijst erop dat een lagere benodigde drukkracht ergonomischer is, vooral voor personen met een lagere maximale drukkracht. Daarnaast bleek de stevigheid van de add-ons te variëren afhankelijk van de veerkracht en bevestigingsmechanismen. Een add-on met een lagere veerkracht was minder stabiel en kon draaien, waardoor het lampje niet meer naar de gebruiker scheen. Het vinden van een balans tussen een lage drukkracht voor gebruiksgemak en voldoende veerkracht voor een stabiele bevestiging is dus van groot belang. Het verstelbare velcro bandje bleek goed te passen binnen een lengte van 13,6 tot 24 cm en werd over het algemeen als comfortabel ervaren. Echter werd gesteld dat er nood was aan elasticiteit in het bandje, idem voor de enkelband. Hieronder staan afbeeldingen van de test, genomen tijdens het testen.
+*Figuur 22: Prototype met velcro opzetstukken*
+
+*Figuur 23,24: Meting van benodigde knijpkracht(pinch)*
+
+Tijdens de test ondervonden deelnemers moeite met de add-on waarbij de drukkracht dichter bij de maximale waarde van 3,5 kg lag. Dit wijst erop dat een lagere benodigde drukkracht ergonomischer is, vooral voor personen met een lagere maximale drukkracht. Daarnaast bleek de stevigheid van de add-ons te variëren afhankelijk van de veerkracht en bevestigingsmechanismen. Een add-on met een lagere veerkracht was minder stabiel en kon draaien, waardoor het lampje niet meer naar de gebruiker scheen. Het vinden van een balans tussen een lage drukkracht voor gebruiksgemak en voldoende veerkracht voor een stabiele bevestiging is dus van groot belang. Het verstelbare velcro bandje bleek goed te passen binnen een lengte van 13,6 tot 24 cm en werd over het algemeen als comfortabel ervaren. Echter werd gesteld dat er nood was aan elasticiteit in het bandje, idem voor de enkelband. Hieronder staan afbeeldingen van de test, genomen tijdens het testen, op figuur 25-28.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/869a07c7-d063-4f1e-87e1-4578d734d07a" width="200" height="200"> 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/25ef3ace-ff76-4350-a812-4844b3a28830" width="200" height="200"> 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/8b35750e-2365-4f7d-ab0e-4449bad7c45c" width="200" height="200"> 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/ff6d4e36-4440-450d-9073-9026cc7edc61" width="200" height="200">
+
+*Figuur 25-28: foto's test antropometrie*
 
 Een gedetailleerd rapport van de resultaten en analyse van de test is hier terug te vinden: [Resultalen en analyse antropometrie](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Gebruikerstest-analyse%20antropometrie.docx "Resultalen en analyse antropometrie").
 
@@ -249,9 +255,11 @@ Het doel van deze develop-fase was om een gebruiksvriendelijke en aantrekkelijke
 
 De ontwerpfase van de app volgde een gebruiksgerichte bandering, waarbij de nadruk lag op de gebruiker en hun interactie met het product. Door middel van een iteratief proces van ontwerpen, reviews en gebruikerstesten, en feedbackimplementatie werd een app ontworpen die tracht te voldoen aan de eisen van de gerbuiker en dit op een gebruiksvriendelijke en interactieve manier.
 
-Voor het ontwikkelen van de prototypes werden de volgende stappen ondernomen: eerst werd begonnen met het ontwerp van interactieve app-prototypes ([3_Figma_prototypes_APP](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/prototypes%20apps.fig "3_Figma_prototypes_APP")) met verschillende aangeleerde concepten en ideeën in het achterhoofd zoals The 4 principles of good design (Norman, 1988), Foggs behavioural model waarbij verschillende ontwerpconcepten werden uitgewerkt en getest. Ook werden vele andere aangeleerde principes en strategieën bestudeerd en geintegreerd, zoals zoomorphisme, Attention economy(behavioural design) en habit forming(ook Fogg). Ook voor de add-on werden veschillende aangeleerde strategieën onderzocht.
+Voor het ontwikkelen van de prototypes werden de volgende stappen ondernomen: eerst werd begonnen met het ontwerp van interactieve Figma (FigMa: The Collaborative Interface Design Tool, z.d.) app-prototypes ([3_Figma_prototypes_APP](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/prototypes%20apps.fig "3_Figma_prototypes_APP")) met verschillende aangeleerde concepten en ideeën in het achterhoofd zoals The 4 principles of good design (Norman, 1988), Foggs behavioural model waarbij verschillende ontwerpconcepten werden uitgewerkt en getest. Ook werden vele andere aangeleerde principes en strategieën bestudeerd en geintegreerd, zoals zoomorphisme, Attention economy(behavioural design) en habit forming(ook Fogg). Ook voor de add-on werden veschillende aangeleerde strategieën onderzocht. Op figuur 29 hieronder staan de 3 app-prototypes afgebeeld.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4dc6c561-40e9-4108-9786-a93fdf12fa45" width="200" height="300">
+
+*Figuur 29: Figma prototypes apps*
 
 Vervolgens werden de prototypes onderworpen aan een expert review en heuristische evaluatie, waarbij ze beoordeeld werden op basis van verschillende heuristieken. Het evaluatiekader van de review is voor enkele criteria gebaseerd op Nielsen’s heuristieken en aanvullende designprincipes zoals zichtbaarheid, eenvoud en directe feedback. De review werd uitgevoerd door twee medestudenten die beide ervaring hadden met het gebruik van smartphone apps. Zij gebruikten een specifiek opgesteld formulier voor de evaluatie, waarbij ze scores en feedback gaven op verschillende aspecten van de prototypes. Deze review werd gamaakt aan de hand van een vooraf opgesteld formulier: [Formulier expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Expert%20reviews/Expert%20review.docx).
 
@@ -262,9 +270,11 @@ Ten slotte werd de gebruikerservaring beoordeeld door zowel experts als gebruike
 Bij de expert review vonden de reviewers over het algemeen dat de apps enkele sterke punten hadden, zoals duidelijkheid in foutmeldingen en een esthetisch aantrekkelijk ontwerp. Echter, er werden ook verschillende verbeterpunten aangegeven. Zo werd opgemerkt dat sommige grafieken en diagrammen beter leesbaar moeten worden gemaakt, vooral voor kleurenblinden. Daarnaast werd het gebruik van dieren in de interface positief ontvangen, maar niet geschikt geacht voor professionele gebruikers. Andere opmerkingen betroffen de navigatie in de app, waarbij werd gesuggereerd om onnodige tabs te verwijderen en een meer intuïtieve navigatiestructuur te introduceren. Feedback op acties werd als duidelijk beoordeeld, maar het werd aanbevolen om meer uitleg en mogelijke oplossingen bij foutmeldingen te geven. De reviewers stelden ook voor om de statistiekenweergave uit te breiden zodat gebruikers deze over langere periodes kunnen bekijken. Deze feedback heeft geleid tot verdere optimalisatie van twee van de drie prototypes, later werd hier een keuze tussen gemaakt en was het uiteindelijke resultaat één finaal app-prototype.
 De gedetailleerde resultaten en analyse van deze review is te vinden in de bijlage: [Analyse expert review](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Expert-Review%20Analyse.docx "Analyse expert review").
 
-Bij de gebruikerstests vonden de testpersonen het ontwerp van de app aantrekkelijk en waardeerden het ontbreken van advertenties. De dieren in de app werden over het algemeen als leuk en speels ervaren, maar er werd ook vermeld dat de optie om de dieren uit te schakelen werd geapprecieerd. De overzichtelijkheid van de app zonder onnodige functies werd positief ontvangen. Echter, de zichtbaarheid van bepaalde visuele elementen, zoals grafieken en diagrammen, zou verbeterd kunnen worden. De gebruikers merkten ook op dat de animaties vloeiender zouden kunnen zijn voor een betere ervaring. Daarnaast werd voorgesteld om de app meer personaliseerbaar te maken, bijvoorbeeld door gebruikers de mogelijkheid te geven om kleurencombinaties aan te passen. De gecombineerde feedback uit deze usability test werd zo goed mogelijk geimplementeerd in de uiteindelijke app en leidde tot een geoptimaliseerd resultaat. De gedetailleerde resultaten en analyse van deze gebruikerstests zijn te vinden in de bijlage: [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp"). Hieronder een afbeelding van de finale app:
+Bij de gebruikerstests vonden de testpersonen het ontwerp van de app aantrekkelijk en waardeerden het ontbreken van advertenties. De dieren in de app werden over het algemeen als leuk en speels ervaren, maar er werd ook vermeld dat de optie om de dieren uit te schakelen werd geapprecieerd. De overzichtelijkheid van de app zonder onnodige functies werd positief ontvangen. Echter, de zichtbaarheid van bepaalde visuele elementen, zoals grafieken en diagrammen, zou verbeterd kunnen worden. De gebruikers merkten ook op dat de animaties vloeiender zouden kunnen zijn voor een betere ervaring. Daarnaast werd voorgesteld om de app meer personaliseerbaar te maken, bijvoorbeeld door gebruikers de mogelijkheid te geven om kleurencombinaties aan te passen. De gecombineerde feedback uit deze usability test werd zo goed mogelijk geimplementeerd in de uiteindelijke app en leidde tot een geoptimaliseerd resultaat. De gedetailleerde resultaten en analyse van deze gebruikerstests zijn te vinden in de bijlage: [Resultalen en analyse test RunLightapp](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20Analyse%20app-test.docx "Resultalen en analyse test RunLightapp"). Hieronder een afbeelding van de finale app, afgebeeld op figuur 30.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/2739a146-35be-434c-bc69-333db1a5b3e6" width="420" height="200">
+
+*Figuur 30: Prototype finale app*
 
 ### Conclusies & implicaties
 
@@ -278,22 +288,25 @@ Het doel van deze develop-fase was het optimaliseren van het interactieontwerp v
 
 ### Materiaal & methoden
 
-Tijdens de develop-fase van het gebruiksgericht ontwerpproject werd het interactieontwerp van het product geoptimaliseerd met een focus op de user journey en de interactie tussen gebruiker en product. Eerst werd een hiërarchische taakanalyse uitgevoerd om de taken en van gebruikers te identificeren en de interactiekeuzes te evalueren. Dit maakte het mogelijk om verbeterpunten te vinden op het gebied van sensorische ergonomie. Een schema van deze taakanalyse is hieronder afgebeeld
+Tijdens de develop-fase van het gebruiksgericht ontwerpproject werd het interactieontwerp van het product geoptimaliseerd met een focus op de user journey en de interactie tussen gebruiker en product. Eerst werd een hiërarchische taakanalyse uitgevoerd om de taken en van gebruikers te identificeren en de interactiekeuzes te evalueren. Dit maakte het mogelijk om verbeterpunten te vinden op het gebied van sensorische ergonomie. Deze hiërarchische taakanalyse staat beschreven in dit rapport: [Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
+
+Een schema van deze taakanalyse is hieronder afgebeeld in figuur 31.
+
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/29816121-8a31-4137-a32a-eb585df34dc2)
 
-Vervolgens werden gedetailleerde gebruikerstesten uitgevoerd in drie fasen. De eerste fase betrof de voorbereiding, waarbij deelnemers de schokdetectorband en add-on bevestigden en de RunLight-app openden. Dit werd geobserveerd om eventuele problemen te identificeren. Tijdens de tweede fase ontvingen de deelnemers real-time feedback terwijl ze liepen, met signalen via licht, vibratie en geluid. De reacties en aanpassingen van deelnemers werden geobserveerd om de effectiviteit van elk type feedback te beoordelen. In de derde fase bekeken deelnemers de gedetailleerde resultaten in de RunLight-app, wat inzicht gaf in de gebruiksvriendelijkheid en duidelijkheid van de app. Na de test volgde een paar korte vragen over de verschillende soorten signalen.
+*Figuur 31: schema hiërarchische taakanalyse*
+
+Vervolgens werden gebruikerstesten uitgevoerd in drie fasen. De eerste fase betrof de voorbereiding, waarbij deelnemers de schokdetectorband en add-on bevestigden en de RunLight-app openden. Dit werd geobserveerd om eventuele problemen te identificeren. Tijdens de tweede fase ontvingen de deelnemers real-time feedback terwijl ze liepen, met signalen via licht, vibratie en geluid. De reacties en aanpassingen van deelnemers werden geobserveerd om de effectiviteit van elk type feedback te beoordelen. In de derde fase bekeken deelnemers de gedetailleerde resultaten in de RunLight-app, wat inzicht gaf in de gebruiksvriendelijkheid en duidelijkheid van de app. Na de test volgde een paar korte vragen over de verschillende soorten signalen. Het protocol dat gevolgd is voor deze test is hier terug te vinden: [Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "Testprotocol user_journey") In figuur 32-34 staan fotos afgebeeld van tijdens deze test.
+
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9b25a488-53d0-4f64-a6e6-c91f12df140a" width="200" height="200">
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/25b50dc6-c80f-4a25-9b91-c41e9dae6501" width="200" height="200">
+<img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/0cc21365-9676-40ea-a2f4-0b28f4d4a192" width="200" height="200">
+
+*Figuur 32-34: foto's test user journey en interaction design*
 
 De testresultaten toonden aan dat visuele signalen soms werden gemist bij fel licht, vibraties over het algemeen positief werden ontvangen maar twijfel opriepen of deze bij extreme vermoeidheid nog steeds opgemerkt zouden worden, en geluidsignalen duidelijk maar soms storend waren en ook weer twijfels bij vermoeidheid of tijdens het luisteren van muziek. Aanbevelingen voor verdere optimalisatie omvatten het verbeteren van de zichtbaarheid van visuele signalen, het optimaliseren van vibraties voor verschillende omstandigheden en het aanpassen van geluidsignalen zodat ze optioneel en aanpasbaar zijn. 
 
 
-
-
-
-
-
-[Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
-
-[Testprotocol user_journey](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20user%20journey%20en%20interaction%20design.docx "Testprotocol user_journey")
 
 ### Resultaten
 
@@ -354,11 +367,13 @@ Al bij al was dit een zeel leerrijke opdracht, ondanks (of dankzij?) de moeilijk
 
 -Norman, D. (2013). The design of everyday things: Revised and Expanded Edition. Hachette UK.
 
-Movesense Ltd. (2022, 31 mei). Shop — MoveSense. Movesense. https://www.movesense.com/shop/
+-Movesense Ltd. (2022, 31 mei). Shop — MoveSense. Movesense. https://www.movesense.com/shop/
+
+-Sign up | Miro | The Visual Workspace for Innovation. (z.d.). https://miro.com/. https://miro.com/app/board/uXjVNZS6Jq4=/
+
+-FigMa: The Collaborative Interface Design Tool. (z.d.). Figma. https://figma.com/
 
 ## Bijlagen
-
-<img src="" width="200" height="200">
 
 ### Protocols
 
