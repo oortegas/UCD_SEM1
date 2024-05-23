@@ -86,7 +86,8 @@ het voorafgaande is hieronder weergegeven in een tabel.
 |---:|:---:|:---:|:---:|:---:|
 |Feedback: (muziek/waterrugzak/licht/trilling)|Trilling|Licht|Licht|Licht en Trilling|
 |Ondergrond|90% verhard|2x/week piste, anders verhard|meestal verhard|1x/week pist, anders verhard|
-|Lopen met muziek|Soms|Nooit|Nooit|Altijd|                                                                                                                                                                                                                                                                                                                                                                                                                          
+|Lopen met muziek|Soms|Nooit|Nooit|Altijd|
+
 *Tabel 1: user interview1 Discovery*
 
 
