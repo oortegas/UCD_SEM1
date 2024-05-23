@@ -68,7 +68,8 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 #### Benchmarking (N=8)
 
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Alle resultaten werden gestructureerd in een problem-solution matrix gegoten.
-![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/9593655c-7c07-4e68-b360-a9edf420a0b2)
+![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/9593655c-7c07-4e68-b360-a9edf420a0b2)                                                                                                                                                                          
+*Figuur 2: Problem-solution matrix*
 
 #### Sportlab Gent (30/11)
 
@@ -85,7 +86,9 @@ het voorafgaande is hieronder weergegeven in een tabel.
 |---:|:---:|:---:|:---:|:---:|
 |Feedback: (muziek/waterrugzak/licht/trilling)|Trilling|Licht|Licht|Licht en Trilling|
 |Ondergrond|90% verhard|2x/week piste, anders verhard|meestal verhard|1x/week pist, anders verhard|
-|Lopen met muziek|Soms|Nooit|Nooit|Altijd|
+|Lopen met muziek|Soms|Nooit|Nooit|Altijd|                                                                                                                                                                                                                                    
+*Tabel 1: user interview1 Discovery*
+
 
 ### Conclusies & implicaties
 
@@ -116,7 +119,7 @@ Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschat
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (op de schoen, aan het middel en op de borst). **De add-on op de pols of op het horloge was hierbij dan de populairste positie**.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4ecfd851-5463-4ea8-8546-2724cc5b2890" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/eaa5b48b-d657-4ad2-8595-1f9387ca1e4e" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/827e70d1-32be-408d-bb17-c6ec220d7513" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dd9c2ec8-9653-4d0c-84b8-d21c98ee2457" width="200" height="200">
-
+*Figuur 3: Foto's gebruikerstest1 definition*
 
 #### Dataweergave (N=3)
 
