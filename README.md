@@ -81,15 +81,13 @@ Om de probleemruimte grondig te analyseren werden user interviews uitgevoerd. Va
 "In wedstrijden loop ik nooit met muziek."
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Ons volgende idee, een eenvoudige licht strip die de loper waarschuwt tijdens het lopen, wordt verder onderzocht.
 Er is ook een idee om met een straf te werken. Dit zou een snelheidsvermindering zijn. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan hun loopstijl. Daardoor zou de straf onnodig blijken. Dit wordt verder onderzocht.
-het voorafgaande is hieronder weergegeven in een tabel.
+het voorafgaande is hieronder weergegeven in tabel 1.
+*Tabel 1: user interview1 Discovery*
 ||1|2|3|4|  
 |---:|:---:|:---:|:---:|:---:|
 |Feedback: (muziek/waterrugzak/licht/trilling)|Trilling|Licht|Licht|Licht en Trilling|
 |Ondergrond|90% verhard|2x/week piste, anders verhard|meestal verhard|1x/week pist, anders verhard|
 |Lopen met muziek|Soms|Nooit|Nooit|Altijd|
-
-*Tabel 1: user interview1 Discovery*
-
 
 ### Conclusies & implicaties
 
