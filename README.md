@@ -252,7 +252,22 @@ De expert reviews benadrukten de esthetische aantrekkelijkheid en de duidelijkhe
 
 ### Doelstellingen
 
+Het doel van deze develop-fase was het optimaliseren van het interactieontwerp van het product, met specifieke aandacht voor de user journey en de interactie tussen gebruiker en product. Dit omvatte het evalueren en verbeteren van de sensorische ergonomie door middel van hiërarchische taakanalyse en gebruikerstesten, met als uiteindelijk doel een gebruiksvriendelijker product te creëren.
+
 ### Materiaal & methoden
+
+Tijdens de develop-fase van het gebruiksgericht ontwerpproject werd het interactieontwerp van het product geoptimaliseerd met een focus op de user journey en de interactie tussen gebruiker en product. Eerst werd een hiërarchische taakanalyse uitgevoerd om de taken en van gebruikers te identificeren en de interactiekeuzes te evalueren. Dit maakte het mogelijk om verbeterpunten te vinden op het gebied van sensorische ergonomie. Een schema van deze taakanalyse is hieronder afgebeeld
+![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/29816121-8a31-4137-a32a-eb585df34dc2)
+
+Vervolgens werden gedetailleerde gebruikerstesten uitgevoerd in drie fasen. De eerste fase betrof de voorbereiding, waarbij deelnemers de schokdetectorband en add-on bevestigden en de RunLight-app openden. Dit werd geobserveerd om eventuele problemen te identificeren. Tijdens de tweede fase ontvingen de deelnemers real-time feedback terwijl ze liepen, met signalen via licht, vibratie en geluid. De reacties en aanpassingen van deelnemers werden geobserveerd om de effectiviteit van elk type feedback te beoordelen. In de derde fase bekeken deelnemers de gedetailleerde resultaten in de RunLight-app, wat inzicht gaf in de gebruiksvriendelijkheid en duidelijkheid van de app. Na de test volgde een paar korte vragen over de verschillende soorten signalen.
+
+De testresultaten toonden aan dat visuele signalen soms werden gemist bij fel licht, vibraties over het algemeen positief werden ontvangen maar twijfel opriepen of deze bij extreme vermoeidheid nog steeds opgemerkt zouden worden, en geluidsignalen duidelijk maar soms storend waren en ook weer twijfels bij vermoeidheid of tijdens het luisteren van muziek. Aanbevelingen voor verdere optimalisatie omvatten het verbeteren van de zichtbaarheid van visuele signalen, het optimaliseren van vibraties voor verschillende omstandigheden en het aanpassen van geluidsignalen zodat ze optioneel en aanpasbaar zijn. 
+
+
+
+
+
+
 
 [Taakanalyse](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Hi%C3%ABrarchische%20taakanalyse%20(1).docx "Taakanalyse")
 
@@ -260,7 +275,15 @@ De expert reviews benadrukten de esthetische aantrekkelijkheid en de duidelijkhe
 
 ### Resultaten
 
+Tijdens de test kwamen geen grote problemen aan het licht wat betreft de user journey, echter wat betreft het interaction design werden een paar werkpunten gesignaleerd.
+
+De testresultaten toonden aan dat visuele signalen soms werden gemist bij fel licht, vibraties over het algemeen positief werden ontvangen maar twijfel opriepen of deze bij extreme vermoeidheid nog steeds opgemerkt zouden worden, en geluidsignalen duidelijk maar soms storend waren en ook weer twijfels bij vermoeidheid of tijdens het luisteren van muziek. Aanbevelingen voor verdere optimalisatie omvatten het verbeteren van de zichtbaarheid van visuele signalen, het optimaliseren van vibraties voor verschillende omstandigheden en het aanpassen van geluidsignalen zodat ze optioneel en aanpasbaar zijn. Het rapport met de gedetailleerde analyse en resultaten bevind zich hier:[Testanalyse User Journey en interaction design]( "analyse test User journey en interaction design")
+
 ### Conclusies & implicaties
+
+De taakanalyse, gebruikerstesten en analyses tijdens deze develop-fase leverden belangrijke inzichten op in de effectiviteit van verschillende interactiemodaliteiten. Visuele signalen bleken bij fel licht vaak onvoldoende zichtbaar, wat wijst op de noodzaak om de zichtbaarheid van leds te verbeteren. Vibraties werden algemeen positief ontvangen, hoewel hun effectiviteit bij extreme vermoeidheid verder onderzocht moet worden. Geluidsignalen waren duidelijk, maar soms storend, vooral in stille omgevingen of bij het luisteren naar muziek.
+
+De zichtbaarheid van de licht signalen moet worden verbeterd, bijvoorbeeld door fellere leds die minder beinvloed worden door omgevingslicht. Vibraties kunnen geoptimaliseerd worden door de intensiteit aanpasbaar te maken aan de voorkeuren en omstandigheden van de gebruiker. Geluidsignalen moeten optioneel en aanpasbaar worden gemaakt om storingen te minimaliseren. Deze inzichten dienen geïmplementeerd te worden in het ontwerp om het zo nog verder te optimaliseren.
 
 ## Bill of materials
 - Welk
