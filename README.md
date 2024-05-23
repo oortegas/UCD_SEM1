@@ -156,9 +156,9 @@ Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen aan de hand van
 
 *Figuur 11,13: Foto's test met glance prototype*
 
-"Het zit wel een beetje in de weg als ik dit doe (maakt een bapaalde polsbeweging)." -Luis ortega (fanatieke sporter, marathonloper) 
+> "Het zit wel een beetje in de weg als ik dit doe (maakt een bapaalde polsbeweging)." -Luis ortega (fanatieke sporter, marathonloper) 
 
-"I am a bit worried that when im running, it could come loose." -Rebecca Stremmel (biologe, loopt in vrije tijd)
+> "I am a bit worried that when im running, it could come loose." -Rebecca Stremmel (biologe, loopt in vrije tijd)
 
 Om deze reden was er in dit project behoefte aan een terugblik op het voorgaande deel van het project, namelijk de definitiefase. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruikerstesten. Hieronder, op figuur 14, is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project. De derde ruit (de tweede definitiefase) is deze na de opsplitsing.
 
@@ -178,17 +178,23 @@ Hiervan werden uiteraard ook prototypes gemaakt, te zien op figuur 16-19.
 
 *Figuur 16-19: foto's prototype koordstopper add-on*
 
-Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een eerdere gebruikerstest herhaald volgens dit protocol [Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "Tesprotocol Koordstopper-Add-on"). Dit betreft een test waarbij simpelweg wordt gepeild naar hoe comfortabel het prototype is op de pols en of het geen bijkomende klachten veroorzaakt.
+Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een eerdere gebruikerstest herhaald volgens dit protocol [Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "Tesprotocol Koordstopper-Add-on"). Dit betreft een test waarbij simpelweg wordt gepeild naar hoe comfortabel het prototype is op de pols en of het geen bijkomende klachten veroorzaakt. Fotos van deze test staan afgebeeld op figuur 20-22 hieronder.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c507dbb3-da21-44de-8978-f8e24b8dd46d" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/e86e1fe6-6b76-469e-a1e3-186bdc963128" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1e2ff37-71a0-44f9-9433-41db31cc3648" width="200" height="200">
+
+*Figuur 20-22: foto's test koordstopper add-on*
 
 De testpersonen ondervonden geen grote problemen met het gebruik van de add-on, hoewel het bevestigen ervan iets moeilijker bleek dan bij het eerdere prototype. Er was nog geen lampje aan de add-on bevestigd, wat vragen opriep over het comfort en de bruikbaarheid met een zwaardere versie.
 
 Een belangrijk punt van feedback was de behoefte aan elasticiteit in het polsbandje, wat werd vastgesteld tijdens de laatste test. De elasticiteit zou de bewegingsvrijheid verbeteren en bijdragen aan een comfortabelere pasvorm. De resultaten wijzen erop dat het huidige ontwerp potentieel heeft, maar verdere aanpassingen nodig zijn om de bevestiging te vergemakkelijken en de ergonomie te optimaliseren. Een verdere analyse van de resultaten bevindt zich hier: [Resultalen en analyse koordstoppertest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/resultaten%20en%20analyse%20koordstopper.docx "Resultalen en analyse koordstoppertest").
 
-Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke. Movesense verhandelt deze arm- en enkelbandjes ook zelf.
+Voor de enkelband werd gekozen voor het veelgebruikte kliksysteem voor hartslagmeters en dergelijke. Movesense (Movesense Ltd, 2022) verhandelt deze arm- en enkelbandjes ook zelf.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4aec8a14-0a88-40c7-8854-cc4adf26f14d" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/85e93547-1802-4423-89c7-bb5385712b20" width="200" height="200">
+
+*Figuur 20: foto movesense banjes (Movesense Ltd, 2022)*
+
+*Figuur 21: schets movesense bevestigingsmechanisme*
 
 Bij de smartphone-app die samengaat met het enkelbandje en de add-on was er om hypothetische redenen behoefte aan verandering. De meeste mensen hebben veel apps met functies die ze niet gebruiken en mogelijk zelfs niet weten hoe ze deze moeten gebruiken. Dit heeft een negatieve invloed op de bruikbaarheid van de app en beïnvloedt op deze manier de bruikbaarheid van het hele product. Bij het ontwerpen van de functies van deze app moet het doel waarvoor de app is ontworpen in gedachten worden gehouden. Dit doel is het monitoren van schokken aan de enkel en het waarschuwen van de gebruiker. Andere apps zoals Runna, NikeRunClub, Strava, enzovoort, hebben al een trackingsysteem, een routebouwer, een sociaal platform, vele andere functies en een zeer breed scala aan gebruikers wereldwijd. Er is geen noodzaak om met deze bedrijven te concurreren; dit zou meer geld, meer tijd en meer expertise vergen.
 
@@ -347,6 +353,8 @@ Al bij al was dit een zeel leerrijke opdracht, ondanks (of dankzij?) de moeilijk
 -About us. Runeasi. https://runeasi.ai/about-us/
 
 -Norman, D. (2013). The design of everyday things: Revised and Expanded Edition. Hachette UK.
+
+Movesense Ltd. (2022, 31 mei). Shop — MoveSense. Movesense. https://www.movesense.com/shop/
 
 ## Bijlagen
 
