@@ -115,10 +115,11 @@ Deze onderzoeksvragen werden ondervraagd met volgende materialen:
 
 Na een voorafgaand interview, waarin werd gepeild naar het gebruik van verschillende loopgadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van het lichtje. 
 Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of het lichtje op de juiste plaats bevestigd werd. Verder kan de loper eventuele problemen/ongemakken ervaren en deze meedelen.
-Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (op de schoen, aan het middel en op de borst). **De add-on op de pols of op het horloge was hierbij dan de populairste positie**.
+Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (op de schoen, aan het middel en op de borst). **De add-on op de pols of op het horloge was hierbij dan de populairste positie**. In figuur 3-6 hieronder, staan afbeeldingen van tijdens de test afgebeeld.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4ecfd851-5463-4ea8-8546-2724cc5b2890" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/eaa5b48b-d657-4ad2-8595-1f9387ca1e4e" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/827e70d1-32be-408d-bb17-c6ec220d7513" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/dd9c2ec8-9653-4d0c-84b8-d21c98ee2457" width="200" height="200">
-*Figuur 3: Foto's gebruikerstest1 definition*
+
+*Figuur 3-6: Foto's gebruikerstest1 definition*
 
 #### Dataweergave (N=3)
 
@@ -145,25 +146,36 @@ Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onder
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/783d6d8c-fa25-48f2-bda6-67ff7af16b43" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/4c1670c6-f6dc-4027-b76b-eeddc0ba4dec" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/f61df491-0e87-451b-a53d-6c24180c0534" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/af6dcec7-c0ca-48f8-be3c-954b2ced627e" width="200" height="200">
 
-Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen aan de hand van een testprotocol, [Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "Testprotocol Glance"). Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Het prototype werd licht aangepast en de test werd herhaald, met een geleikaardig resultaat. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie. Een uitgebreide analyse bevindt zich hier, [Resultaten en analyse glancetest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20analyse%20Glance.docx "Resultaten en analyse glancetest").
+*Figuur 7,8: foto's Glance product*
+*Figuur 9,10: Foto's prototype gebasserd op Glance*
+
+Deze eerste gebruikerstest werd uitgevoerd met drie testpersonen aan de hand van een testprotocol, [Testprotocol Glance](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20glance%20prototype.docx "Testprotocol Glance"). Er werd gepeild naar het comfort van de add-on onder het horloge voor de testpersoon. Dit werd gedaan door de testpersoon te vragen om een stukje te lopen en een paar wilde bewegingen te maken met de arm en pols. Na de test werd duidelijk dat het eenvoudige prototype, gemaakt van hout, niet stevig onder het horloge zat en enkele keren loskwam. Het prototype werd licht aangepast en de test werd herhaald, met een geleikaardig resultaat. Ook lieten de testpersonen weten dat de add-on de bewegingen van de pols beperkte en oncomfortabel was bij bepaalde bewegingen. Bovendien gaf iemand aan dat ze bang was het te verliezen. Het comfort van zich geen zorgen hoeven maken is uiteraard ook een aspect van ergonomie. Een uitgebreide analyse bevindt zich hier, [Resultaten en analyse glancetest](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/testanalyses/Resultaten%20en%20analyse%20Glance.docx "Resultaten en analyse glancetest"). Hieronder op figuur 11-13 staan afbeeldingen van de test.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/9759676a-f89a-4a4d-a054-0c258e0520f6" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a059f71-b9e9-4b1b-9a3e-e70c4e63fadc" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/858160b0-b26f-48dc-8707-855547b439f9" width="200" height="200">
+
+*Figuur 11,13: Foto's test met glance prototype*
 
 "Het zit wel een beetje in de weg als ik dit doe (maakt een bapaalde polsbeweging)." -Luis ortega (fanatieke sporter, marathonloper) 
 
 "I am a bit worried that when im running, it could come loose." -Rebecca Stremmel (biologe, loopt in vrije tijd)
 
-Om deze reden was er in dit project behoefte aan een terugblik op het voorgaande deel van het project, namelijk de definitiefase. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruikerstesten. In de onderstaande figuur is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project. De derde ruit (de tweede definitiefase) is deze na de opsplitsing.
+Om deze reden was er in dit project behoefte aan een terugblik op het voorgaande deel van het project, namelijk de definitiefase. Hiervoor werd de planning licht aangepast en werd het ontwerp van de add-on herbekeken met behulp van enkele gebruikerstesten. Hieronder, op figuur 14, is een overzicht te zien van de verschillende divergerende en convergerende stappen in het project. De derde ruit (de tweede definitiefase) is deze na de opsplitsing.
 
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/0c626292-4bef-4153-9d83-36c0a3d65d53)
 
-Uit de voorgaande tests bleek duidelijk dat de testpersonen behoefte hadden aan een product dat stevig vastzit en waar ze zich geen zorgen over hoeven te maken dat het loskomt. Ook mocht het product geen bewegingen beperken of oncomfortabel maken. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De mogelijkheid, volgens drie user interviews, dat verder onderzocht diende te worden was een add-on met een koordstopper en een kunststoffen spijkervorm die door de gespgaatjes van het horloge bevestigd wordt. Een simpele schets van dit concept staat hieronder afgebeeld (links horloge, rechts armbandje).
+*Figuur 14: tijdlijn ontwerpproces*
+
+Uit de voorgaande tests bleek duidelijk dat de testpersonen behoefte hadden aan een product dat stevig vastzit en waar ze zich geen zorgen over hoeven te maken dat het loskomt. Ook mocht het product geen bewegingen beperken of oncomfortabel maken. Om dit te bereiken werden verschillende mogelijkheden bekeken om de add-on aan het horloge te bevestigen. De mogelijkheid, volgens drie user interviews, dat verder onderzocht diende te worden was een add-on met een koordstopper en een kunststoffen spijkervorm die door de gespgaatjes van het horloge bevestigd wordt. Een simpele schets van dit concept staat hieronder afgebeeld op figuur 15 (links horloge, rechts armbandje).
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/6a68de8b-f812-4bf4-964d-9ea424983539" width="200" height="200"> <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/08772011-f8fe-4352-9b42-df76e8eb9f48" width="200" height="200">
 
-Hiervan werden uiteraard ook prototypes gemaakt.
+*Figuur 15: schets add-on koordstopperconcept*
+
+Hiervan werden uiteraard ook prototypes gemaakt, te zien op figuur 16-19.
 
 <img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/c8c8e470-15ac-4ae6-a48f-32f83ba3cf36" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/a1cb3632-887c-4c30-83b2-db391a248cb5" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/70e56b2a-d259-47f5-9bec-5ae483906fac" width="200" height="200"><img src="https://github.com/oortegas/UCD_SEM1/assets/159797841/142ca3bb-8745-44f7-a5de-30738024f05f" width="200" height="200">
+
+*Figuur 16-19: foto's prototype koordstopper add-on*
 
 Met dit prototype werd aan de slag gegaan om gebruikerstesten uit te voeren. Eerst werd een eerdere gebruikerstest herhaald volgens dit protocol [Tesprotocol Koordstopper-Add-on](https://github.com/oortegas/UCD_SEM1/blob/oortegas-patch-1/Testprotocol%20koordstopper%20addon%20prototype.docx "Tesprotocol Koordstopper-Add-on"). Dit betreft een test waarbij simpelweg wordt gepeild naar hoe comfortabel het prototype is op de pols en of het geen bijkomende klachten veroorzaakt.
 
