@@ -28,6 +28,7 @@ Hieronder staat de gebruikte methodologie uitgelegd, deze is opgedeeld in twee d
 
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en definition. Dit is hieronder weergegeven in een double diamond.
 ![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/f8aaaf1a-15f1-46b0-8bfc-c0409f84c72f)
+
 *Figuur 1: tijdslijn sem1*
 
 ### problem discovery
