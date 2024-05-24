@@ -138,8 +138,6 @@ Tot slot werd in de discovery fase duidelijk dat ondergrond een belangrijke rol 
 Om de loper te waarschuwen wordt gebruik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'Victory'.
 
-## Bill of materials
-
 ## Na de opsplitsing (fork)
 
 Vervolgens werd in de eerste develop-opdracht de ergonomie van het product onderzocht aan de hand van antropometrie. Dit werd onderzocht door middel van een gebruikerstest met een prototype gebaseerd op de startup “Glance” (Glance Team, 2013).
@@ -322,15 +320,27 @@ De taakanalyse, gebruikerstesten en analyses tijdens deze develop-fase leverden 
 De zichtbaarheid van de licht signalen moet worden verbeterd, bijvoorbeeld door fellere leds die minder beinvloed worden door omgevingslicht. Vibraties kunnen geoptimaliseerd worden door de intensiteit aanpasbaar te maken aan de voorkeuren en omstandigheden van de gebruiker. Geluidsignalen moeten optioneel en aanpasbaar worden gemaakt om storingen te minimaliseren. Deze inzichten dienen geïmplementeerd te worden in het ontwerp om het zo nog verder te optimaliseren.
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+
+Componenten voor de Add-on:
+
+  1.	“glance”-prototype:
+  - Houten plaatjes
+  - Houtlijm voor het vastlijmen van de componenten
+    
+  2.	Koordstopper-prototype:
+  - Kunststof materialen voor de spijkervormige bevestiging.
+  - Metalen veer voor de veerkracht van de spijkervormige bevestiging.
+  - Velcro voor verstelbaarheid en bevestiging.
+  - Lijm voor het vastlijmen van de componenten
+    
+  3.	Verstelbare pols- en enkelbandjes:
+  - Velcro-bandjes voor verstelbaarheid en bevestiging van sensor en add-on.
+    
+  4.	Lampje:
+  - LED-lampje met verschillende lichtstanden.
+  
+Testen en interviews:
+  - Vergoedingen voor deelnemers aan gebruikerstests, als in chocolade en koekjes van de proevertjes uit de colruyt.
 
 ## Kritische reflectie
 
