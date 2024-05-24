@@ -6,8 +6,6 @@
 Datum
 
 ## Samenvatting
-
-- Hero sketch/render/image
   
 Blessures bij hardlopers vormen een veelvoorkomende uitdaging, zowel voor nieuwkomers als voor ervaren atleten. Het menselijk lichaam is complex en tijdens het hardlopen worden grote krachten uitgeoefend op de gewrichten, spieren, pezen en botten. Deze krachten kunnen leiden tot blessures als ze niet goed worden beheerd.
 
@@ -15,6 +13,8 @@ Na uitgebreid deskresearch werd duidelijk dat er al veel pogingen zijn ondernome
 
 Het resultaat van deze inspanningen is RunLight, een systeem dat het risico op blessures probeert te minimaliseren door middel van schokdetectie. RunLight maakt gebruik van een accelerometer die aan de enkel wordt bevestigd en schokken detecteert. Deze data wordt vervolgens naar een smartphone-app (RunLight) verzonden, die op zijn beurt instructies doorstuurt naar een lampje op de add-on. Dit lampje geeft de loper directe feedback, waardoor hij of zij kan reageren op de gedetecteerde schokken, zijn of haar loopstijl zal aanpassen en mogelijke blessures kan voorkomen.
 
+![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/8040c1da-54e2-4709-932a-5322e82da758)
+*afbeelding van de feedback-add-on*
 
 ## Introductie
 
@@ -292,7 +292,8 @@ Tijdens de develop-fase van het gebruiksgericht ontwerpproject werd het interact
 
 Een schema van deze taakanalyse is hieronder afgebeeld in figuur 31.
 
-![image](https://github.com/oortegas/UCD_SEM1/assets/159797841/29816121-8a31-4137-a32a-eb585df34dc2)
+![image (7)](https://github.com/oortegas/UCD_SEM1/assets/159797841/362e56e8-0dc8-43db-a4a4-8c6e2a77f9b2)
+
 
 *Figuur 31: schema hiërarchische taakanalyse*
 
